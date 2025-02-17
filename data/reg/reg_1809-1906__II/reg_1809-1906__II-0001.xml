@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_8m676pez_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1503" HEIGHT="1873" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1503" HEIGHT="1873">
+				<ComposedBlock ID="cblock_0" HPOS="1112" VPOS="46" WIDTH="287" HEIGHT="31">
+					<TextBlock ID="block_0" HPOS="1112" VPOS="46" WIDTH="287" HEIGHT="31">
+						<TextLine ID="line_0" HPOS="1112" VPOS="46" WIDTH="287" HEIGHT="31">
+							<String ID="string_0" HPOS="1112" VPOS="46" WIDTH="167" HEIGHT="24" WC="0.80" CONTENT="Eduskunnan"/><SP WIDTH="22" VPOS="46" HPOS="1279"/>
+							<String ID="string_1" HPOS="1301" VPOS="46" WIDTH="98" HEIGHT="31" WC="0.88" CONTENT="Kirjäsio"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="176" VPOS="229" WIDTH="1061" HEIGHT="855">
+					<TextBlock ID="block_1" HPOS="176" VPOS="229" WIDTH="1061" HEIGHT="855">
+						<TextLine ID="line_1" HPOS="414" VPOS="229" WIDTH="584" HEIGHT="83">
+							<String ID="string_2" HPOS="414" VPOS="229" WIDTH="584" HEIGHT="83" WC="0.96" CONTENT="REGISTER"/>
+						</TextLine>
+						<TextLine ID="line_2" HPOS="549" VPOS="395" WIDTH="315" HEIGHT="101">
+							<String ID="string_3" HPOS="549" VPOS="395" WIDTH="315" HEIGHT="101" WC="0.96" CONTENT="FINLANDS"/>
+						</TextLine>
+						<TextLine ID="line_3" HPOS="176" VPOS="524" WIDTH="1061" HEIGHT="77">
+							<String ID="string_4" HPOS="176" VPOS="524" WIDTH="1061" HEIGHT="77" WC="0.91" CONTENT="STÅNDSLANDTDAGARS"/>
+						</TextLine>
+						<TextLine ID="line_4" HPOS="341" VPOS="648" WIDTH="732" HEIGHT="37">
+							<String ID="string_5" HPOS="341" VPOS="648" WIDTH="278" HEIGHT="37" WC="0.96" CONTENT="PROTOKOLL"/><SP WIDTH="27" VPOS="648" HPOS="619"/>
+							<String ID="string_6" HPOS="646" VPOS="649" WIDTH="99" HEIGHT="36" WC="0.95" CONTENT="OCH"/><SP WIDTH="30" VPOS="649" HPOS="745"/>
+							<String ID="string_7" HPOS="775" VPOS="649" WIDTH="298" HEIGHT="36" WC="0.95" CONTENT="HANDLINGAR"/>
+						</TextLine>
+						<TextLine ID="line_5" HPOS="573" VPOS="742" WIDTH="265" HEIGHT="81">
+							<String ID="string_8" HPOS="573" VPOS="742" WIDTH="265" HEIGHT="81" WC="0.92" CONTENT="1809—1906"/>
+						</TextLine>
+						<TextLine ID="line_6" HPOS="693" VPOS="889" WIDTH="31" HEIGHT="97">
+							<String ID="string_9" HPOS="693" VPOS="889" WIDTH="31" HEIGHT="97" WC="0.50" CONTENT="I"/>
+						</TextLine>
+						<TextLine ID="line_7" HPOS="471" VPOS="1038" WIDTH="475" HEIGHT="46">
+							<String ID="string_10" HPOS="471" VPOS="1038" WIDTH="475" HEIGHT="46" WC="0.91" CONTENT="UPPSLAGSORD"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="678" VPOS="1120" WIDTH="63" HEIGHT="24">
+					<TextBlock ID="block_2" HPOS="678" VPOS="1120" WIDTH="63" HEIGHT="24">
+						<TextLine ID="line_8" HPOS="678" VPOS="1120" WIDTH="63" HEIGHT="24">
+							<String ID="string_11" HPOS="678" VPOS="1120" WIDTH="63" HEIGHT="24" WC="0.96" CONTENT="OCH"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="428" VPOS="1182" WIDTH="568" HEIGHT="46">
+					<TextBlock ID="block_3" HPOS="428" VPOS="1182" WIDTH="568" HEIGHT="46">
+						<TextLine ID="line_9" HPOS="428" VPOS="1182" WIDTH="568" HEIGHT="46">
+							<String ID="string_12" HPOS="428" VPOS="1182" WIDTH="568" HEIGHT="46" WC="0.91" CONTENT="PERSONREGISTER"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_4" HPOS="292" VPOS="1716" WIDTH="847" HEIGHT="27">
+					<TextBlock ID="block_4" HPOS="292" VPOS="1716" WIDTH="847" HEIGHT="27">
+						<TextLine ID="line_10" HPOS="292" VPOS="1716" WIDTH="847" HEIGHT="27">
+							<String ID="string_13" HPOS="292" VPOS="1716" WIDTH="204" HEIGHT="23" WC="0.95" CONTENT="HELSINGFORS"/><SP WIDTH="20" VPOS="1716" HPOS="496"/>
+							<String ID="string_14" HPOS="516" VPOS="1717" WIDTH="63" HEIGHT="26" WC="0.92" CONTENT="1917,"/><SP WIDTH="17" VPOS="1717" HPOS="579"/>
+							<String ID="string_15" HPOS="596" VPOS="1716" WIDTH="438" HEIGHT="23" WC="0.92" CONTENT="BOKTRYCKERI-AKTIEBOLAGET"/><SP WIDTH="20" VPOS="1716" HPOS="1034"/>
+							<String ID="string_16" HPOS="1054" VPOS="1716" WIDTH="85" HEIGHT="22" WC="0.96" CONTENT="SANA"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

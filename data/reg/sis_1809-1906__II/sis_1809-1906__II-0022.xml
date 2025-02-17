@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess__yxq424z_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1495" HEIGHT="1875" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1495" HEIGHT="1875">
+				<GraphicalElement ID="cblock_0" HPOS="138" VPOS="86" WIDTH="1286" HEIGHT="10"></GraphicalElement >
+				<GraphicalElement ID="cblock_1" HPOS="140" VPOS="94" WIDTH="1284" HEIGHT="6"></GraphicalElement >
+				<GraphicalElement ID="cblock_2" HPOS="138" VPOS="102" WIDTH="2" HEIGHT="1486"></GraphicalElement >
+				<GraphicalElement ID="cblock_3" HPOS="700" VPOS="103" WIDTH="3" HEIGHT="1404"></GraphicalElement >
+				<GraphicalElement ID="cblock_4" HPOS="703" VPOS="175" WIDTH="71" HEIGHT="4"></GraphicalElement >
+				<GraphicalElement ID="cblock_5" HPOS="1347" VPOS="171" WIDTH="73" HEIGHT="5"></GraphicalElement >
+				<GraphicalElement ID="cblock_6" HPOS="1343" VPOS="101" WIDTH="5" HEIGHT="1634"></GraphicalElement >
+				<ComposedBlock ID="cblock_7" HPOS="135" VPOS="54" WIDTH="1273" HEIGHT="1687">
+					<TextBlock ID="block_0" HPOS="135" VPOS="54" WIDTH="1270" HEIGHT="139">
+						<TextLine ID="line_0" HPOS="135" VPOS="54" WIDTH="703" HEIGHT="19">
+							<String ID="string_0" HPOS="135" VPOS="54" WIDTH="25" HEIGHT="19" WC="0.96" CONTENT="20"/><SP WIDTH="563" VPOS="54" HPOS="160"/>
+							<String ID="string_1" HPOS="723" VPOS="54" WIDTH="115" HEIGHT="18" WC="0.91" CONTENT="Hakemisto."/>
+						</TextLine>
+						<TextLine ID="line_1" HPOS="712" VPOS="128" WIDTH="693" HEIGHT="27">
+							<String ID="string_2" HPOS="712" VPOS="128" WIDTH="49" HEIGHT="27" WC="0.90" CONTENT="Vuosi"/><SP WIDTH="595" VPOS="128" HPOS="761"/>
+							<String ID="string_3" HPOS="1356" VPOS="129" WIDTH="49" HEIGHT="15" WC="0.96" CONTENT="Vuosi"/>
+						</TextLine>
+						<TextLine ID="line_2" HPOS="154" VPOS="166" WIDTH="1081" HEIGHT="27">
+							<String ID="string_4" HPOS="154" VPOS="168" WIDTH="193" HEIGHT="24" WC="0.90" CONTENT="(Anomusehdotus,"/><SP WIDTH="12" VPOS="168" HPOS="347"/>
+							<String ID="string_5" HPOS="359" VPOS="169" WIDTH="237" HEIGHT="24" WC="0.92" CONTENT="Talonpoikaissäädyssä.)"/><SP WIDTH="197" VPOS="169" HPOS="596"/>
+							<String ID="string_6" HPOS="793" VPOS="168" WIDTH="192" HEIGHT="24" WC="0.90" CONTENT="(Anomusehdotus,"/><SP WIDTH="12" VPOS="168" HPOS="985"/>
+							<String ID="string_7" HPOS="997" VPOS="166" WIDTH="238" HEIGHT="24" WC="0.91" CONTENT="Talonpoikaissäädyssä.)"/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_1" HPOS="184" VPOS="216" WIDTH="1222" HEIGHT="58">
+						<TextLine ID="line_3" HPOS="184" VPOS="216" WIDTH="1222" HEIGHT="28">
+							<String ID="string_8" HPOS="184" VPOS="224" WIDTH="33" HEIGHT="16" WC="0.91" CONTENT="n:o"/><SP WIDTH="17" VPOS="224" HPOS="217"/>
+							<String ID="string_9" HPOS="234" VPOS="220" WIDTH="81" HEIGHT="20" WC="0.96" CONTENT="96-101"/><SP WIDTH="18" VPOS="220" HPOS="315"/>
+							<String ID="string_10" HPOS="333" VPOS="219" WIDTH="37" HEIGHT="21" WC="0.96" CONTENT="Ks."/><SP WIDTH="14" VPOS="219" HPOS="370"/>
+							<String ID="string_11" HPOS="384" VPOS="219" WIDTH="132" HEIGHT="22" WC="0.96" CONTENT="Rautatie."/><SP WIDTH="201" VPOS="219" HPOS="516"/>
+							<String ID="string_12" HPOS="717" VPOS="222" WIDTH="45" HEIGHT="18" WC="0.96" CONTENT="1885"/><SP WIDTH="61" VPOS="222" HPOS="762"/>
+							<String ID="string_13" HPOS="823" VPOS="224" WIDTH="32" HEIGHT="15" WC="0.93" CONTENT="n:o"/><SP WIDTH="32" VPOS="224" HPOS="855"/>
+							<String ID="string_14" HPOS="887" VPOS="220" WIDTH="28" HEIGHT="19" WC="0.95" CONTENT="39"/><SP WIDTH="31" VPOS="220" HPOS="915"/>
+							<String ID="string_15" HPOS="946" VPOS="218" WIDTH="37" HEIGHT="21" WC="0.86" CONTENT="Ks."/><SP WIDTH="15" VPOS="218" HPOS="983"/>
+							<String ID="string_16" HPOS="998" VPOS="218" WIDTH="99" HEIGHT="21" WC="0.89" CONTENT="Kirkon"/><SP WIDTH="19" VPOS="218" HPOS="1097"/>
+							<String ID="string_17" HPOS="1116" VPOS="216" WIDTH="211" HEIGHT="28" WC="0.92" CONTENT="palveluskunta."/><SP WIDTH="10" VPOS="216" HPOS="1327"/>
+							<String ID="string_18" HPOS="1337" VPOS="212" WIDTH="10" HEIGHT="37" WC="0.96" CONTENT="|"/><SP WIDTH="13" VPOS="212" HPOS="1347"/>
+							<String ID="string_19" HPOS="1360" VPOS="218" WIDTH="46" HEIGHT="19" WC="0.96" CONTENT="1888"/>
+						</TextLine>
+						<TextLine ID="line_4" HPOS="195" VPOS="247" WIDTH="1193" HEIGHT="27">
+							<String ID="string_20" HPOS="195" VPOS="266" WIDTH="12" HEIGHT="8" WC="0.91" CONTENT="»"/><SP WIDTH="13" VPOS="266" HPOS="207"/>
+							<String ID="string_21" HPOS="220" VPOS="250" WIDTH="97" HEIGHT="20" WC="0.92" CONTENT="102-106"/><SP WIDTH="27" VPOS="250" HPOS="317"/>
+							<String ID="string_22" HPOS="344" VPOS="267" WIDTH="11" HEIGHT="7" WC="0.92" CONTENT=",,"/><SP WIDTH="27" VPOS="267" HPOS="355"/>
+							<String ID="string_23" HPOS="382" VPOS="250" WIDTH="214" HEIGHT="21" WC="0.91" CONTENT="Kanavoiminen."/><SP WIDTH="138" VPOS="250" HPOS="596"/>
+							<String ID="string_24" HPOS="734" VPOS="266" WIDTH="9" HEIGHT="6" WC="0.76" CONTENT="»"/><SP WIDTH="91" VPOS="266" HPOS="743"/>
+							<String ID="string_25" HPOS="834" VPOS="265" WIDTH="12" HEIGHT="8" WC="0.91" CONTENT="»"/><SP WIDTH="41" VPOS="265" HPOS="846"/>
+							<String ID="string_26" HPOS="887" VPOS="250" WIDTH="28" HEIGHT="19" WC="0.79" CONTENT="40"/><SP WIDTH="43" VPOS="250" HPOS="915"/>
+							<String ID="string_27" HPOS="958" VPOS="265" WIDTH="11" HEIGHT="8" WC="0.56" CONTENT=",,"/><SP WIDTH="27" VPOS="265" HPOS="969"/>
+							<String ID="string_28" HPOS="996" VPOS="247" WIDTH="115" HEIGHT="21" WC="0.95" CONTENT="Maatila."/><SP WIDTH="267" VPOS="247" HPOS="1111"/>
+							<String ID="string_29" HPOS="1378" VPOS="263" WIDTH="10" HEIGHT="7" WC="0.33" CONTENT="a"/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_2" HPOS="194" VPOS="276" WIDTH="1214" HEIGHT="1465">
+						<TextLine ID="line_5" HPOS="195" VPOS="276" WIDTH="1133" HEIGHT="28">
+							<String ID="string_30" HPOS="195" VPOS="296" WIDTH="13" HEIGHT="7" WC="0.85" CONTENT="»"/><SP WIDTH="48" VPOS="296" HPOS="208"/>
+							<String ID="string_31" HPOS="256" VPOS="280" WIDTH="40" HEIGHT="20" WC="0.81" CONTENT="107"/><SP WIDTH="49" VPOS="280" HPOS="296"/>
+							<String ID="string_32" HPOS="345" VPOS="297" WIDTH="11" HEIGHT="7" WC="0.46" CONTENT=","/><SP WIDTH="27" VPOS="297" HPOS="356"/>
+							<String ID="string_33" HPOS="383" VPOS="280" WIDTH="131" HEIGHT="21" WC="0.95" CONTENT="Rautatie."/><SP WIDTH="219" VPOS="280" HPOS="514"/>
+							<String ID="string_34" HPOS="733" VPOS="296" WIDTH="10" HEIGHT="6" WC="0.62" CONTENT="»"/><SP WIDTH="91" VPOS="296" HPOS="743"/>
+							<String ID="string_35" HPOS="834" VPOS="295" WIDTH="12" HEIGHT="8" WC="0.87" CONTENT="»"/><SP WIDTH="23" VPOS="295" HPOS="846"/>
+							<String ID="string_36" HPOS="869" VPOS="279" WIDTH="68" HEIGHT="20" WC="0.92" CONTENT="41-42"/><SP WIDTH="21" VPOS="279" HPOS="937"/>
+							<String ID="string_37" HPOS="958" VPOS="295" WIDTH="12" HEIGHT="8" WC="0.90" CONTENT=",,"/><SP WIDTH="27" VPOS="295" HPOS="970"/>
+							<String ID="string_38" HPOS="997" VPOS="277" WIDTH="190" HEIGHT="22" WC="0.92" CONTENT="Kruununtilat"/><SP WIDTH="24" VPOS="277" HPOS="1187"/>
+							<String ID="string_39" HPOS="1211" VPOS="276" WIDTH="26" HEIGHT="28" WC="0.93" CONTENT="ja"/><SP WIDTH="27" VPOS="276" HPOS="1237"/>
+							<String ID="string_40" HPOS="1264" VPOS="276" WIDTH="64" HEIGHT="21" WC="0.91" CONTENT="-vir-"/>
+						</TextLine>
+						<TextLine ID="line_6" HPOS="195" VPOS="306" WIDTH="1193" HEIGHT="28">
+							<String ID="string_41" HPOS="195" VPOS="326" WIDTH="12" HEIGHT="7" WC="0.83" CONTENT="»"/><SP WIDTH="49" VPOS="326" HPOS="207"/>
+							<String ID="string_42" HPOS="256" VPOS="310" WIDTH="41" HEIGHT="20" WC="0.92" CONTENT="108"/><SP WIDTH="47" VPOS="310" HPOS="297"/>
+							<String ID="string_43" HPOS="344" VPOS="326" WIDTH="13" HEIGHT="8" WC="0.0" CONTENT="=,"/><SP WIDTH="26" VPOS="326" HPOS="357"/>
+							<String ID="string_44" HPOS="383" VPOS="310" WIDTH="140" HEIGHT="21" WC="0.91" CONTENT="Meriliike."/><SP WIDTH="210" VPOS="310" HPOS="523"/>
+							<String ID="string_45" HPOS="733" VPOS="326" WIDTH="10" HEIGHT="6" WC="0.44" CONTENT="5"/><SP WIDTH="475" VPOS="326" HPOS="743"/>
+							<String ID="string_46" HPOS="1218" VPOS="306" WIDTH="110" HEIGHT="22" WC="0.93" CONTENT="katalot."/><SP WIDTH="11" VPOS="306" HPOS="1328"/>
+							<String ID="string_47" HPOS="1339" VPOS="302" WIDTH="15" HEIGHT="35" WC="0.92" CONTENT="|"/><SP WIDTH="24" VPOS="302" HPOS="1354"/>
+							<String ID="string_48" HPOS="1378" VPOS="323" WIDTH="10" HEIGHT="6" WC="0.55" CONTENT=","/>
+						</TextLine>
+						<TextLine ID="line_7" HPOS="195" VPOS="335" WIDTH="1194" HEIGHT="36">
+							<String ID="string_49" HPOS="195" VPOS="356" WIDTH="13" HEIGHT="7" WC="0.83" CONTENT="»"/><SP WIDTH="12" VPOS="356" HPOS="208"/>
+							<String ID="string_50" HPOS="220" VPOS="340" WIDTH="97" HEIGHT="20" WC="0.96" CONTENT="109-110"/><SP WIDTH="67" VPOS="340" HPOS="317"/>
+							<String ID="string_51" HPOS="384" VPOS="335" WIDTH="135" HEIGHT="36" WC="0.92" CONTENT="Tienteko."/><SP WIDTH="214" VPOS="335" HPOS="519"/>
+							<String ID="string_52" HPOS="733" VPOS="356" WIDTH="10" HEIGHT="6" WC="0.80" CONTENT="a"/><SP WIDTH="91" VPOS="356" HPOS="743"/>
+							<String ID="string_53" HPOS="834" VPOS="355" WIDTH="12" HEIGHT="7" WC="0.90" CONTENT="»"/><SP WIDTH="41" VPOS="355" HPOS="846"/>
+							<String ID="string_54" HPOS="887" VPOS="339" WIDTH="27" HEIGHT="20" WC="0.88" CONTENT="43"/><SP WIDTH="44" VPOS="339" HPOS="914"/>
+							<String ID="string_55" HPOS="958" VPOS="355" WIDTH="11" HEIGHT="7" WC="0.76" CONTENT=","/><SP WIDTH="27" VPOS="355" HPOS="969"/>
+							<String ID="string_56" HPOS="996" VPOS="337" WIDTH="115" HEIGHT="27" WC="0.94" CONTENT="Kauppa"/><SP WIDTH="268" VPOS="337" HPOS="1111"/>
+							<String ID="string_57" HPOS="1379" VPOS="353" WIDTH="10" HEIGHT="6" WC="0.63" CONTENT="»"/>
+						</TextLine>
+						<TextLine ID="line_8" HPOS="195" VPOS="367" WIDTH="1194" HEIGHT="29">
+							<String ID="string_58" HPOS="195" VPOS="386" WIDTH="13" HEIGHT="7" WC="0.81" CONTENT="»"/><SP WIDTH="48" VPOS="386" HPOS="208"/>
+							<String ID="string_59" HPOS="256" VPOS="370" WIDTH="40" HEIGHT="20" WC="0.83" CONTENT="111"/><SP WIDTH="49" VPOS="370" HPOS="296"/>
+							<String ID="string_60" HPOS="345" VPOS="386" WIDTH="12" HEIGHT="8" WC="0.51" CONTENT=","/><SP WIDTH="26" VPOS="386" HPOS="357"/>
+							<String ID="string_61" HPOS="383" VPOS="370" WIDTH="170" HEIGHT="26" WC="0.90" CONTENT="Kyydinpito."/><SP WIDTH="180" VPOS="370" HPOS="553"/>
+							<String ID="string_62" HPOS="733" VPOS="386" WIDTH="11" HEIGHT="6" WC="0.63" CONTENT="5"/><SP WIDTH="90" VPOS="386" HPOS="744"/>
+							<String ID="string_63" HPOS="834" VPOS="385" WIDTH="12" HEIGHT="7" WC="0.90" CONTENT="»"/><SP WIDTH="41" VPOS="385" HPOS="846"/>
+							<String ID="string_64" HPOS="887" VPOS="369" WIDTH="29" HEIGHT="20" WC="0.88" CONTENT="44"/><SP WIDTH="42" VPOS="369" HPOS="916"/>
+							<String ID="string_65" HPOS="958" VPOS="384" WIDTH="12" HEIGHT="8" WC="0.30" CONTENT=","/><SP WIDTH="27" VPOS="384" HPOS="970"/>
+							<String ID="string_66" HPOS="997" VPOS="367" WIDTH="209" HEIGHT="22" WC="0.91" CONTENT="Paloviinavero."/><SP WIDTH="172" VPOS="367" HPOS="1206"/>
+							<String ID="string_67" HPOS="1378" VPOS="382" WIDTH="11" HEIGHT="6" WC="0.2" CONTENT="i"/>
+						</TextLine>
+						<TextLine ID="line_9" HPOS="196" VPOS="394" WIDTH="1193" HEIGHT="33">
+							<String ID="string_68" HPOS="196" VPOS="415" WIDTH="12" HEIGHT="8" WC="0.89" CONTENT="»"/><SP WIDTH="48" VPOS="415" HPOS="208"/>
+							<String ID="string_69" HPOS="256" VPOS="400" WIDTH="41" HEIGHT="20" WC="0.88" CONTENT="112"/><SP WIDTH="48" VPOS="400" HPOS="297"/>
+							<String ID="string_70" HPOS="345" VPOS="416" WIDTH="12" HEIGHT="8" WC="0.33" CONTENT="—,"/><SP WIDTH="26" VPOS="416" HPOS="357"/>
+							<String ID="string_71" HPOS="383" VPOS="400" WIDTH="79" HEIGHT="21" WC="0.95" CONTENT="Posti."/><SP WIDTH="268" VPOS="400" HPOS="462"/>
+							<String ID="string_72" HPOS="730" VPOS="394" WIDTH="14" HEIGHT="33" WC="0.67" CONTENT="55"/><SP WIDTH="91" VPOS="394" HPOS="744"/>
+							<String ID="string_73" HPOS="835" VPOS="415" WIDTH="12" HEIGHT="7" WC="0.79" CONTENT="»"/><SP WIDTH="41" VPOS="415" HPOS="847"/>
+							<String ID="string_74" HPOS="888" VPOS="398" WIDTH="28" HEIGHT="21" WC="0.87" CONTENT="45"/><SP WIDTH="43" VPOS="398" HPOS="916"/>
+							<String ID="string_75" HPOS="959" VPOS="415" WIDTH="12" HEIGHT="7" WC="0.66" CONTENT=",,"/><SP WIDTH="27" VPOS="415" HPOS="971"/>
+							<String ID="string_76" HPOS="998" VPOS="397" WIDTH="201" HEIGHT="27" WC="0.91" CONTENT="Mallasjuomat."/><SP WIDTH="179" VPOS="397" HPOS="1199"/>
+							<String ID="string_77" HPOS="1378" VPOS="412" WIDTH="11" HEIGHT="7" WC="0.47" CONTENT="v"/>
+						</TextLine>
+						<TextLine ID="line_10" HPOS="195" VPOS="427" WIDTH="1194" HEIGHT="29">
+							<String ID="string_78" HPOS="195" VPOS="445" WIDTH="12" HEIGHT="8" WC="0.92" CONTENT="»"/><SP WIDTH="50" VPOS="445" HPOS="207"/>
+							<String ID="string_79" HPOS="257" VPOS="430" WIDTH="40" HEIGHT="20" WC="0.89" CONTENT="113"/><SP WIDTH="48" VPOS="430" HPOS="297"/>
+							<String ID="string_80" HPOS="345" VPOS="446" WIDTH="12" HEIGHT="8" WC="0.50" CONTENT=",,"/><SP WIDTH="26" VPOS="446" HPOS="357"/>
+							<String ID="string_81" HPOS="383" VPOS="429" WIDTH="195" HEIGHT="27" WC="0.96" CONTENT="Maanviljelys."/><SP WIDTH="156" VPOS="429" HPOS="578"/>
+							<String ID="string_82" HPOS="734" VPOS="446" WIDTH="10" HEIGHT="6" WC="0.22" CONTENT="M,"/><SP WIDTH="91" VPOS="446" HPOS="744"/>
+							<String ID="string_83" HPOS="835" VPOS="445" WIDTH="11" HEIGHT="7" WC="0.91" CONTENT="»"/><SP WIDTH="42" VPOS="445" HPOS="846"/>
+							<String ID="string_84" HPOS="888" VPOS="429" WIDTH="28" HEIGHT="20" WC="0.87" CONTENT="46"/><SP WIDTH="43" VPOS="429" HPOS="916"/>
+							<String ID="string_85" HPOS="959" VPOS="445" WIDTH="11" HEIGHT="7" WC="0.34" CONTENT=","/><SP WIDTH="28" VPOS="445" HPOS="970"/>
+							<String ID="string_86" HPOS="998" VPOS="427" WIDTH="129" HEIGHT="21" WC="0.80" CONTENT="Alkoholi"/><SP WIDTH="252" VPOS="427" HPOS="1127"/>
+							<String ID="string_87" HPOS="1379" VPOS="442" WIDTH="10" HEIGHT="7" WC="0.85" CONTENT="”"/>
+						</TextLine>
+						<TextLine ID="line_11" HPOS="196" VPOS="457" WIDTH="1192" HEIGHT="27">
+							<String ID="string_88" HPOS="196" VPOS="475" WIDTH="12" HEIGHT="7" WC="0.90" CONTENT="»"/><SP WIDTH="48" VPOS="475" HPOS="208"/>
+							<String ID="string_89" HPOS="256" VPOS="460" WIDTH="42" HEIGHT="20" WC="0.88" CONTENT="114"/><SP WIDTH="47" VPOS="460" HPOS="298"/>
+							<String ID="string_90" HPOS="345" VPOS="476" WIDTH="12" HEIGHT="8" WC="0.72" CONTENT=","/><SP WIDTH="27" VPOS="476" HPOS="357"/>
+							<String ID="string_91" HPOS="384" VPOS="459" WIDTH="117" HEIGHT="22" WC="0.96" CONTENT="Puhelin."/><SP WIDTH="233" VPOS="459" HPOS="501"/>
+							<String ID="string_92" HPOS="734" VPOS="476" WIDTH="10" HEIGHT="6" WC="0.64" CONTENT="n"/><SP WIDTH="91" VPOS="476" HPOS="744"/>
+							<String ID="string_93" HPOS="835" VPOS="475" WIDTH="11" HEIGHT="7" WC="0.89" CONTENT="»"/><SP WIDTH="24" VPOS="475" HPOS="846"/>
+							<String ID="string_94" HPOS="870" VPOS="459" WIDTH="68" HEIGHT="20" WC="0.90" CONTENT="47-49"/><SP WIDTH="21" VPOS="459" HPOS="938"/>
+							<String ID="string_95" HPOS="959" VPOS="475" WIDTH="11" HEIGHT="7" WC="0.61" CONTENT=",,"/><SP WIDTH="27" VPOS="475" HPOS="970"/>
+							<String ID="string_96" HPOS="997" VPOS="457" WIDTH="77" HEIGHT="21" WC="0.95" CONTENT="Tulli."/><SP WIDTH="305" VPOS="457" HPOS="1074"/>
+							<String ID="string_97" HPOS="1379" VPOS="472" WIDTH="9" HEIGHT="6" WC="0.55" CONTENT="a"/>
+						</TextLine>
+						<TextLine ID="line_12" HPOS="196" VPOS="487" WIDTH="1193" HEIGHT="29">
+							<String ID="string_98" HPOS="196" VPOS="505" WIDTH="11" HEIGHT="8" WC="0.91" CONTENT="»"/><SP WIDTH="49" VPOS="505" HPOS="207"/>
+							<String ID="string_99" HPOS="256" VPOS="490" WIDTH="41" HEIGHT="20" WC="0.81" CONTENT="115"/><SP WIDTH="48" VPOS="490" HPOS="297"/>
+							<String ID="string_100" HPOS="345" VPOS="506" WIDTH="4" HEIGHT="7" WC="0.71" CONTENT=","/><SP WIDTH="35" VPOS="506" HPOS="349"/>
+							<String ID="string_101" HPOS="384" VPOS="489" WIDTH="99" HEIGHT="22" WC="0.94" CONTENT="Kirkko"/><SP WIDTH="16" VPOS="489" HPOS="483"/>
+							<String ID="string_102" HPOS="499" VPOS="489" WIDTH="26" HEIGHT="27" WC="0.94" CONTENT="ja"/><SP WIDTH="16" VPOS="489" HPOS="525"/>
+							<String ID="string_103" HPOS="541" VPOS="489" WIDTH="109" HEIGHT="27" WC="0.96" CONTENT="papisto."/><SP WIDTH="84" VPOS="489" HPOS="650"/>
+							<String ID="string_104" HPOS="734" VPOS="506" WIDTH="10" HEIGHT="6" WC="0.80" CONTENT="»"/><SP WIDTH="91" VPOS="506" HPOS="744"/>
+							<String ID="string_105" HPOS="835" VPOS="505" WIDTH="11" HEIGHT="7" WC="0.90" CONTENT="»"/><SP WIDTH="43" VPOS="505" HPOS="846"/>
+							<String ID="string_106" HPOS="889" VPOS="489" WIDTH="27" HEIGHT="20" WC="0.81" CONTENT="50"/><SP WIDTH="43" VPOS="489" HPOS="916"/>
+							<String ID="string_107" HPOS="959" VPOS="505" WIDTH="11" HEIGHT="7" WC="0.57" CONTENT=","/><SP WIDTH="27" VPOS="505" HPOS="970"/>
+							<String ID="string_108" HPOS="997" VPOS="487" WIDTH="214" HEIGHT="21" WC="0.68" CONTENT="Kanavoiminen."/><SP WIDTH="167" VPOS="487" HPOS="1211"/>
+							<String ID="string_109" HPOS="1378" VPOS="502" WIDTH="11" HEIGHT="6" WC="0.49" CONTENT="."/>
+						</TextLine>
+						<TextLine ID="line_13" HPOS="196" VPOS="517" WIDTH="1193" HEIGHT="29">
+							<String ID="string_110" HPOS="196" VPOS="535" WIDTH="12" HEIGHT="7" WC="0.92" CONTENT="»"/><SP WIDTH="48" VPOS="535" HPOS="208"/>
+							<String ID="string_111" HPOS="256" VPOS="520" WIDTH="41" HEIGHT="20" WC="0.91" CONTENT="116"/><SP WIDTH="48" VPOS="520" HPOS="297"/>
+							<String ID="string_112" HPOS="345" VPOS="536" WIDTH="12" HEIGHT="8" WC="0.46" CONTENT=","/><SP WIDTH="27" VPOS="536" HPOS="357"/>
+							<String ID="string_113" HPOS="384" VPOS="520" WIDTH="126" HEIGHT="26" WC="0.96" CONTENT="Papiston"/><SP WIDTH="16" VPOS="520" HPOS="510"/>
+							<String ID="string_114" HPOS="526" VPOS="519" WIDTH="134" HEIGHT="27" WC="0.96" CONTENT="palkkaus."/><SP WIDTH="74" VPOS="519" HPOS="660"/>
+							<String ID="string_115" HPOS="734" VPOS="536" WIDTH="10" HEIGHT="6" WC="0.84" CONTENT="»"/><SP WIDTH="91" VPOS="536" HPOS="744"/>
+							<String ID="string_116" HPOS="835" VPOS="535" WIDTH="11" HEIGHT="7" WC="0.89" CONTENT="»"/><SP WIDTH="25" VPOS="535" HPOS="846"/>
+							<String ID="string_117" HPOS="871" VPOS="519" WIDTH="67" HEIGHT="20" WC="0.93" CONTENT="51-62"/><SP WIDTH="20" VPOS="519" HPOS="938"/>
+							<String ID="string_118" HPOS="958" VPOS="535" WIDTH="12" HEIGHT="7" WC="0.88" CONTENT=",,"/><SP WIDTH="27" VPOS="535" HPOS="970"/>
+							<String ID="string_119" HPOS="997" VPOS="517" WIDTH="130" HEIGHT="21" WC="0.96" CONTENT="Rautatie."/><SP WIDTH="251" VPOS="517" HPOS="1127"/>
+							<String ID="string_120" HPOS="1378" VPOS="532" WIDTH="11" HEIGHT="6" WC="0.66" CONTENT="w"/>
+						</TextLine>
+						<TextLine ID="line_14" HPOS="195" VPOS="547" WIDTH="1194" HEIGHT="29">
+							<String ID="string_121" HPOS="195" VPOS="565" WIDTH="12" HEIGHT="8" WC="0.92" CONTENT="»"/><SP WIDTH="48" VPOS="565" HPOS="207"/>
+							<String ID="string_122" HPOS="255" VPOS="550" WIDTH="41" HEIGHT="20" WC="0.86" CONTENT="117"/><SP WIDTH="49" VPOS="550" HPOS="296"/>
+							<String ID="string_123" HPOS="345" VPOS="566" WIDTH="11" HEIGHT="7" WC="0.33" CONTENT=","/><SP WIDTH="27" VPOS="566" HPOS="356"/>
+							<String ID="string_124" HPOS="383" VPOS="549" WIDTH="100" HEIGHT="22" WC="0.93" CONTENT="Kirkon"/><SP WIDTH="19" VPOS="549" HPOS="483"/>
+							<String ID="string_125" HPOS="502" VPOS="549" WIDTH="188" HEIGHT="27" WC="0.92" CONTENT="palveluskun-"/><SP WIDTH="145" VPOS="549" HPOS="690"/>
+							<String ID="string_126" HPOS="835" VPOS="565" WIDTH="11" HEIGHT="7" WC="0.89" CONTENT="»"/><SP WIDTH="43" VPOS="565" HPOS="846"/>
+							<String ID="string_127" HPOS="889" VPOS="549" WIDTH="27" HEIGHT="20" WC="0.88" CONTENT="63"/><SP WIDTH="43" VPOS="549" HPOS="916"/>
+							<String ID="string_128" HPOS="959" VPOS="564" WIDTH="12" HEIGHT="8" WC="0.69" CONTENT=","/><SP WIDTH="27" VPOS="564" HPOS="971"/>
+							<String ID="string_129" HPOS="998" VPOS="547" WIDTH="117" HEIGHT="27" WC="0.96" CONTENT="Käsityö."/><SP WIDTH="264" VPOS="547" HPOS="1115"/>
+							<String ID="string_130" HPOS="1379" VPOS="562" WIDTH="10" HEIGHT="6" WC="0.83" CONTENT="”"/>
+						</TextLine>
+						<TextLine ID="line_15" HPOS="659" VPOS="577" WIDTH="730" HEIGHT="25">
+							<String ID="string_131" HPOS="659" VPOS="580" WIDTH="31" HEIGHT="20" WC="0.62" CONTENT="ta!"/><SP WIDTH="44" VPOS="580" HPOS="690"/>
+							<String ID="string_132" HPOS="734" VPOS="596" WIDTH="10" HEIGHT="6" WC="0.68" CONTENT="."/><SP WIDTH="91" VPOS="596" HPOS="744"/>
+							<String ID="string_133" HPOS="835" VPOS="595" WIDTH="11" HEIGHT="7" WC="0.90" CONTENT="»"/><SP WIDTH="25" VPOS="595" HPOS="846"/>
+							<String ID="string_134" HPOS="871" VPOS="579" WIDTH="67" HEIGHT="20" WC="0.93" CONTENT="64-65"/><SP WIDTH="21" VPOS="579" HPOS="938"/>
+							<String ID="string_135" HPOS="959" VPOS="594" WIDTH="12" HEIGHT="7" WC="0.89" CONTENT=",,"/><SP WIDTH="27" VPOS="594" HPOS="971"/>
+							<String ID="string_136" HPOS="998" VPOS="577" WIDTH="140" HEIGHT="22" WC="0.91" CONTENT="Meriliike."/><SP WIDTH="241" VPOS="577" HPOS="1138"/>
+							<String ID="string_137" HPOS="1379" VPOS="592" WIDTH="10" HEIGHT="6" WC="0.89" CONTENT="år"/>
+						</TextLine>
+						<TextLine ID="line_16" HPOS="451" VPOS="607" WIDTH="938" HEIGHT="26">
+							<String ID="string_138" HPOS="451" VPOS="621" WIDTH="4" HEIGHT="5" WC="0.52" CONTENT="i"/><SP WIDTH="380" VPOS="621" HPOS="455"/>
+							<String ID="string_139" HPOS="835" VPOS="625" WIDTH="11" HEIGHT="8" WC="0.82" CONTENT="»"/><SP WIDTH="43" VPOS="625" HPOS="846"/>
+							<String ID="string_140" HPOS="889" VPOS="609" WIDTH="28" HEIGHT="20" WC="0.93" CONTENT="66"/><SP WIDTH="42" VPOS="609" HPOS="917"/>
+							<String ID="string_141" HPOS="959" VPOS="624" WIDTH="12" HEIGHT="8" WC="0.67" CONTENT=","/><SP WIDTH="27" VPOS="624" HPOS="971"/>
+							<String ID="string_142" HPOS="998" VPOS="607" WIDTH="118" HEIGHT="22" WC="0.96" CONTENT="Verotus."/><SP WIDTH="263" VPOS="607" HPOS="1116"/>
+							<String ID="string_143" HPOS="1379" VPOS="622" WIDTH="10" HEIGHT="7" WC="0.39" CONTENT="äi"/>
+						</TextLine>
+						<TextLine ID="line_17" HPOS="195" VPOS="621" WIDTH="1194" HEIGHT="55">
+							<String ID="string_144" HPOS="195" VPOS="621" WIDTH="122" HEIGHT="54" WC="0.13" CONTENT="720"/><SP WIDTH="28" VPOS="621" HPOS="317"/>
+							<String ID="string_145" HPOS="345" VPOS="638" WIDTH="12" HEIGHT="38" WC="0.40" CONTENT="7"/><SP WIDTH="26" VPOS="638" HPOS="357"/>
+							<String ID="string_146" HPOS="383" VPOS="621" WIDTH="130" HEIGHT="52" WC="0.69" CONTENT="Alkoholi"/><SP WIDTH="221" VPOS="621" HPOS="513"/>
+							<String ID="string_147" HPOS="734" VPOS="638" WIDTH="10" HEIGHT="36" WC="0.0" CONTENT="|"/><SP WIDTH="91" VPOS="638" HPOS="744"/>
+							<String ID="string_148" HPOS="835" VPOS="655" WIDTH="11" HEIGHT="8" WC="0.39" CONTENT="5"/><SP WIDTH="43" VPOS="655" HPOS="846"/>
+							<String ID="string_149" HPOS="889" VPOS="639" WIDTH="27" HEIGHT="20" WC="0.68" CONTENT="67"/><SP WIDTH="43" VPOS="639" HPOS="916"/>
+							<String ID="string_150" HPOS="959" VPOS="655" WIDTH="10" HEIGHT="7" WC="0.21" CONTENT="&lt;"/><SP WIDTH="29" VPOS="655" HPOS="969"/>
+							<String ID="string_151" HPOS="998" VPOS="636" WIDTH="237" HEIGHT="37" WC="0.82" CONTENT="Terveydenhoito."/><SP WIDTH="144" VPOS="636" HPOS="1235"/>
+							<String ID="string_152" HPOS="1379" VPOS="652" WIDTH="10" HEIGHT="7" WC="0.17" CONTENT=":"/>
+						</TextLine>
+						<TextLine ID="line_18" HPOS="195" VPOS="667" WIDTH="1195" HEIGHT="38">
+							<String ID="string_153" HPOS="195" VPOS="697" WIDTH="13" HEIGHT="8" WC="0.91" CONTENT="»"/><SP WIDTH="48" VPOS="697" HPOS="208"/>
+							<String ID="string_154" HPOS="256" VPOS="682" WIDTH="41" HEIGHT="19" WC="0.89" CONTENT="121"/><SP WIDTH="48" VPOS="682" HPOS="297"/>
+							<String ID="string_155" HPOS="345" VPOS="698" WIDTH="12" HEIGHT="7" WC="0.57" CONTENT=",,"/><SP WIDTH="26" VPOS="698" HPOS="357"/>
+							<String ID="string_156" HPOS="383" VPOS="681" WIDTH="149" HEIGHT="22" WC="0.91" CONTENT="Avioliitto."/><SP WIDTH="203" VPOS="681" HPOS="532"/>
+							<String ID="string_157" HPOS="735" VPOS="699" WIDTH="8" HEIGHT="3" WC="0.93" CONTENT="N"/><SP WIDTH="92" VPOS="699" HPOS="743"/>
+							<String ID="string_158" HPOS="835" VPOS="685" WIDTH="12" HEIGHT="7" WC="0.87" CONTENT="»"/><SP WIDTH="42" VPOS="685" HPOS="847"/>
+							<String ID="string_159" HPOS="889" VPOS="669" WIDTH="28" HEIGHT="20" WC="0.63" CONTENT="68"/><SP WIDTH="42" VPOS="669" HPOS="917"/>
+							<String ID="string_160" HPOS="959" VPOS="685" WIDTH="12" HEIGHT="7" WC="0.81" CONTENT="»"/><SP WIDTH="27" VPOS="685" HPOS="971"/>
+							<String ID="string_161" HPOS="998" VPOS="667" WIDTH="117" HEIGHT="27" WC="0.87" CONTENT="Käsityö."/><SP WIDTH="264" VPOS="667" HPOS="1115"/>
+							<String ID="string_162" HPOS="1379" VPOS="682" WIDTH="11" HEIGHT="7" WC="0.79" CONTENT="”"/>
+						</TextLine>
+						<TextLine ID="line_19" HPOS="195" VPOS="697" WIDTH="1193" HEIGHT="38">
+							<String ID="string_163" HPOS="195" VPOS="727" WIDTH="13" HEIGHT="8" WC="0.92" CONTENT="»"/><SP WIDTH="48" VPOS="727" HPOS="208"/>
+							<String ID="string_164" HPOS="256" VPOS="712" WIDTH="41" HEIGHT="19" WC="0.92" CONTENT="122"/><SP WIDTH="48" VPOS="712" HPOS="297"/>
+							<String ID="string_165" HPOS="345" VPOS="728" WIDTH="12" HEIGHT="7" WC="0.53" CONTENT=","/><SP WIDTH="27" VPOS="728" HPOS="357"/>
+							<String ID="string_166" HPOS="384" VPOS="711" WIDTH="201" HEIGHT="22" WC="0.92" CONTENT="Vankeinhoito."/><SP WIDTH="149" VPOS="711" HPOS="585"/>
+							<String ID="string_167" HPOS="734" VPOS="728" WIDTH="10" HEIGHT="6" WC="0.66" CONTENT="W"/><SP WIDTH="91" VPOS="728" HPOS="744"/>
+							<String ID="string_168" HPOS="835" VPOS="715" WIDTH="12" HEIGHT="8" WC="0.87" CONTENT="»"/><SP WIDTH="24" VPOS="715" HPOS="847"/>
+							<String ID="string_169" HPOS="871" VPOS="699" WIDTH="99" HEIGHT="36" WC="0.47" CONTENT="69-72,"/><SP WIDTH="27" VPOS="699" HPOS="970"/>
+							<String ID="string_170" HPOS="997" VPOS="697" WIDTH="118" HEIGHT="34" WC="0.83" CONTENT="Kauppa"/><SP WIDTH="263" VPOS="697" HPOS="1115"/>
+							<String ID="string_171" HPOS="1378" VPOS="712" WIDTH="10" HEIGHT="6" WC="0.29" CONTENT="="/>
+						</TextLine>
+						<TextLine ID="line_20" HPOS="195" VPOS="727" WIDTH="1194" HEIGHT="38">
+							<String ID="string_172" HPOS="195" VPOS="757" WIDTH="13" HEIGHT="8" WC="0.64" CONTENT="»"/><SP WIDTH="13" VPOS="757" HPOS="208"/>
+							<String ID="string_173" HPOS="221" VPOS="741" WIDTH="98" HEIGHT="20" WC="0.59" CONTENT="193-124"/><SP WIDTH="26" VPOS="741" HPOS="319"/>
+							<String ID="string_174" HPOS="345" VPOS="758" WIDTH="12" HEIGHT="7" WC="0.35" CONTENT=",,"/><SP WIDTH="27" VPOS="758" HPOS="357"/>
+							<String ID="string_175" HPOS="384" VPOS="741" WIDTH="127" HEIGHT="22" WC="0.95" CONTENT="Ulosotto."/><SP WIDTH="224" VPOS="741" HPOS="511"/>
+							<String ID="string_176" HPOS="735" VPOS="758" WIDTH="9" HEIGHT="6" WC="0.45" CONTENT="."/><SP WIDTH="91" VPOS="758" HPOS="744"/>
+							<String ID="string_177" HPOS="835" VPOS="745" WIDTH="11" HEIGHT="7" WC="0.88" CONTENT="»"/><SP WIDTH="26" VPOS="745" HPOS="846"/>
+							<String ID="string_178" HPOS="872" VPOS="729" WIDTH="67" HEIGHT="20" WC="0.84" CONTENT="73-76"/><SP WIDTH="20" VPOS="729" HPOS="939"/>
+							<String ID="string_179" HPOS="959" VPOS="745" WIDTH="12" HEIGHT="7" WC="0.82" CONTENT=",,"/><SP WIDTH="27" VPOS="745" HPOS="971"/>
+							<String ID="string_180" HPOS="998" VPOS="727" WIDTH="213" HEIGHT="34" WC="0.92" CONTENT="Kanavoiminen."/><SP WIDTH="167" VPOS="727" HPOS="1211"/>
+							<String ID="string_181" HPOS="1378" VPOS="742" WIDTH="11" HEIGHT="7" WC="0.83" CONTENT="”"/>
+						</TextLine>
+						<TextLine ID="line_21" HPOS="195" VPOS="757" WIDTH="1194" HEIGHT="38">
+							<String ID="string_182" HPOS="195" VPOS="787" WIDTH="13" HEIGHT="7" WC="0.92" CONTENT="»"/><SP WIDTH="48" VPOS="787" HPOS="208"/>
+							<String ID="string_183" HPOS="256" VPOS="771" WIDTH="41" HEIGHT="20" WC="0.91" CONTENT="125"/><SP WIDTH="48" VPOS="771" HPOS="297"/>
+							<String ID="string_184" HPOS="345" VPOS="788" WIDTH="12" HEIGHT="7" WC="0.52" CONTENT=",,"/><SP WIDTH="27" VPOS="788" HPOS="357"/>
+							<String ID="string_185" HPOS="384" VPOS="771" WIDTH="163" HEIGHT="22" WC="0.91" CONTENT="Vesioikeus."/><SP WIDTH="153" VPOS="771" HPOS="547"/>
+							<String ID="string_186" HPOS="700" VPOS="777" WIDTH="44" HEIGHT="17" WC="0.29" CONTENT="lo"/><SP WIDTH="91" VPOS="777" HPOS="744"/>
+							<String ID="string_187" HPOS="835" VPOS="775" WIDTH="11" HEIGHT="8" WC="0.83" CONTENT="»"/><SP WIDTH="44" VPOS="775" HPOS="846"/>
+							<String ID="string_188" HPOS="890" VPOS="760" WIDTH="25" HEIGHT="19" WC="0.68" CONTENT="77"/><SP WIDTH="44" VPOS="760" HPOS="915"/>
+							<String ID="string_189" HPOS="959" VPOS="775" WIDTH="12" HEIGHT="7" WC="0.61" CONTENT=","/><SP WIDTH="27" VPOS="775" HPOS="971"/>
+							<String ID="string_190" HPOS="998" VPOS="757" WIDTH="139" HEIGHT="34" WC="0.85" CONTENT="Meriliike."/><SP WIDTH="242" VPOS="757" HPOS="1137"/>
+							<String ID="string_191" HPOS="1379" VPOS="772" WIDTH="10" HEIGHT="7" WC="0.44" CONTENT="5"/>
+						</TextLine>
+						<TextLine ID="line_22" HPOS="195" VPOS="787" WIDTH="1194" HEIGHT="41">
+							<String ID="string_192" HPOS="195" VPOS="817" WIDTH="13" HEIGHT="7" WC="0.84" CONTENT="»"/><SP WIDTH="13" VPOS="817" HPOS="208"/>
+							<String ID="string_193" HPOS="221" VPOS="801" WIDTH="95" HEIGHT="20" WC="0.88" CONTENT="126-127"/><SP WIDTH="29" VPOS="801" HPOS="316"/>
+							<String ID="string_194" HPOS="345" VPOS="818" WIDTH="12" HEIGHT="7" WC="0.88" CONTENT=",,"/><SP WIDTH="27" VPOS="818" HPOS="357"/>
+							<String ID="string_195" HPOS="384" VPOS="801" WIDTH="237" HEIGHT="27" WC="0.96" CONTENT="Oikeudenkäynti."/><SP WIDTH="79" VPOS="801" HPOS="621"/>
+							<String ID="string_196" HPOS="700" VPOS="796" WIDTH="44" HEIGHT="30" WC="0.0" CONTENT="&quot;0,"/><SP WIDTH="91" VPOS="796" HPOS="744"/>
+							<String ID="string_197" HPOS="835" VPOS="805" WIDTH="11" HEIGHT="7" WC="0.91" CONTENT="»"/><SP WIDTH="44" VPOS="805" HPOS="846"/>
+							<String ID="string_198" HPOS="890" VPOS="789" WIDTH="26" HEIGHT="20" WC="0.75" CONTENT="78"/><SP WIDTH="43" VPOS="789" HPOS="916"/>
+							<String ID="string_199" HPOS="959" VPOS="805" WIDTH="11" HEIGHT="7" WC="0.75" CONTENT="»"/><SP WIDTH="27" VPOS="805" HPOS="970"/>
+							<String ID="string_200" HPOS="997" VPOS="787" WIDTH="129" HEIGHT="22" WC="0.96" CONTENT="Alkoholi."/><SP WIDTH="67" VPOS="787" HPOS="1126"/>
+							<String ID="string_201" HPOS="1193" VPOS="816" WIDTH="4" HEIGHT="4" WC="0.79" CONTENT="N"/><SP WIDTH="182" VPOS="816" HPOS="1197"/>
+							<String ID="string_202" HPOS="1379" VPOS="802" WIDTH="10" HEIGHT="7" WC="0.27" CONTENT="”"/>
+						</TextLine>
+						<TextLine ID="line_23" HPOS="195" VPOS="817" WIDTH="1194" HEIGHT="38">
+							<String ID="string_203" HPOS="195" VPOS="847" WIDTH="12" HEIGHT="8" WC="0.42" CONTENT="&gt;"/><SP WIDTH="48" VPOS="847" HPOS="207"/>
+							<String ID="string_204" HPOS="255" VPOS="831" WIDTH="42" HEIGHT="20" WC="0.89" CONTENT="128"/><SP WIDTH="48" VPOS="831" HPOS="297"/>
+							<String ID="string_205" HPOS="345" VPOS="848" WIDTH="11" HEIGHT="7" WC="0.48" CONTENT="&gt;"/><SP WIDTH="27" VPOS="848" HPOS="356"/>
+							<String ID="string_206" HPOS="383" VPOS="831" WIDTH="141" HEIGHT="22" WC="0.88" CONTENT="Meriliike."/><SP WIDTH="176" VPOS="831" HPOS="524"/>
+							<String ID="string_207" HPOS="700" VPOS="829" WIDTH="44" HEIGHT="25" WC="0.46" CONTENT="IN"/><SP WIDTH="91" VPOS="829" HPOS="744"/>
+							<String ID="string_208" HPOS="835" VPOS="835" WIDTH="11" HEIGHT="7" WC="0.92" CONTENT="»"/><SP WIDTH="26" VPOS="835" HPOS="846"/>
+							<String ID="string_209" HPOS="872" VPOS="819" WIDTH="67" HEIGHT="20" WC="0.91" CONTENT="79-84"/><SP WIDTH="20" VPOS="819" HPOS="939"/>
+							<String ID="string_210" HPOS="959" VPOS="835" WIDTH="12" HEIGHT="7" WC="0.89" CONTENT=",,"/><SP WIDTH="27" VPOS="835" HPOS="971"/>
+							<String ID="string_211" HPOS="998" VPOS="817" WIDTH="235" HEIGHT="34" WC="0.96" CONTENT="Terveydenhoito."/><SP WIDTH="146" VPOS="817" HPOS="1233"/>
+							<String ID="string_212" HPOS="1379" VPOS="832" WIDTH="10" HEIGHT="7" WC="0.48" CONTENT="I"/>
+						</TextLine>
+						<TextLine ID="line_24" HPOS="195" VPOS="847" WIDTH="1194" HEIGHT="38">
+							<String ID="string_213" HPOS="195" VPOS="877" WIDTH="12" HEIGHT="7" WC="0.28" CONTENT="&gt;»"/><SP WIDTH="49" VPOS="877" HPOS="207"/>
+							<String ID="string_214" HPOS="256" VPOS="861" WIDTH="41" HEIGHT="20" WC="0.94" CONTENT="129"/><SP WIDTH="48" VPOS="861" HPOS="297"/>
+							<String ID="string_215" HPOS="345" VPOS="877" WIDTH="12" HEIGHT="8" WC="0.61" CONTENT="&gt;"/><SP WIDTH="27" VPOS="877" HPOS="357"/>
+							<String ID="string_216" HPOS="384" VPOS="861" WIDTH="124" HEIGHT="21" WC="0.95" CONTENT="Hallinto."/><SP WIDTH="227" VPOS="861" HPOS="508"/>
+							<String ID="string_217" HPOS="735" VPOS="878" WIDTH="9" HEIGHT="6" WC="0.93" CONTENT="N"/><SP WIDTH="92" VPOS="878" HPOS="744"/>
+							<String ID="string_218" HPOS="836" VPOS="865" WIDTH="11" HEIGHT="7" WC="0.84" CONTENT="»"/><SP WIDTH="42" VPOS="865" HPOS="847"/>
+							<String ID="string_219" HPOS="889" VPOS="849" WIDTH="28" HEIGHT="20" WC="0.87" CONTENT="85"/><SP WIDTH="43" VPOS="849" HPOS="917"/>
+							<String ID="string_220" HPOS="960" VPOS="865" WIDTH="11" HEIGHT="6" WC="0.60" CONTENT=","/><SP WIDTH="28" VPOS="865" HPOS="971"/>
+							<String ID="string_221" HPOS="999" VPOS="847" WIDTH="138" HEIGHT="26" WC="0.96" CONTENT="Yliopisto."/><SP WIDTH="242" VPOS="847" HPOS="1137"/>
+							<String ID="string_222" HPOS="1379" VPOS="862" WIDTH="10" HEIGHT="6" WC="0.40" CONTENT="a"/>
+						</TextLine>
+						<TextLine ID="line_25" HPOS="196" VPOS="877" WIDTH="1193" HEIGHT="38">
+							<String ID="string_223" HPOS="196" VPOS="907" WIDTH="12" HEIGHT="7" WC="0.31" CONTENT="1,"/><SP WIDTH="13" VPOS="907" HPOS="208"/>
+							<String ID="string_224" HPOS="221" VPOS="891" WIDTH="95" HEIGHT="20" WC="0.75" CONTENT="130-131"/><SP WIDTH="29" VPOS="891" HPOS="316"/>
+							<String ID="string_225" HPOS="345" VPOS="907" WIDTH="12" HEIGHT="8" WC="0.21" CONTENT=",,"/><SP WIDTH="27" VPOS="907" HPOS="357"/>
+							<String ID="string_226" HPOS="384" VPOS="891" WIDTH="149" HEIGHT="21" WC="0.96" CONTENT="Kieliasiat."/><SP WIDTH="167" VPOS="891" HPOS="533"/>
+							<String ID="string_227" HPOS="700" VPOS="885" WIDTH="2" HEIGHT="30" WC="0.80" CONTENT="|"/><SP WIDTH="33" VPOS="885" HPOS="702"/>
+							<String ID="string_228" HPOS="735" VPOS="908" WIDTH="9" HEIGHT="5" WC="0.71" CONTENT="w"/><SP WIDTH="28" VPOS="908" HPOS="744"/>
+							<String ID="string_229" HPOS="772" VPOS="873" WIDTH="28" HEIGHT="54" WC="0.90" CONTENT="|"/><SP WIDTH="36" VPOS="873" HPOS="800"/>
+							<String ID="string_230" HPOS="836" VPOS="895" WIDTH="11" HEIGHT="7" WC="0.44" CONTENT="»"/><SP WIDTH="42" VPOS="895" HPOS="847"/>
+							<String ID="string_231" HPOS="889" VPOS="879" WIDTH="28" HEIGHT="20" WC="0.72" CONTENT="38"/><SP WIDTH="44" VPOS="879" HPOS="917"/>
+							<String ID="string_232" HPOS="961" VPOS="895" WIDTH="11" HEIGHT="7" WC="0.91" CONTENT="»"/><SP WIDTH="27" VPOS="895" HPOS="972"/>
+							<String ID="string_233" HPOS="999" VPOS="877" WIDTH="126" HEIGHT="34" WC="0.50" CONTENT="Wärötns"/>
+						</TextLine>
+						<TextLine ID="line_26" HPOS="195" VPOS="907" WIDTH="1194" HEIGHT="41">
+							<String ID="string_234" HPOS="195" VPOS="937" WIDTH="12" HEIGHT="7" WC="0.91" CONTENT="»"/><SP WIDTH="49" VPOS="937" HPOS="207"/>
+							<String ID="string_235" HPOS="256" VPOS="921" WIDTH="41" HEIGHT="20" WC="0.74" CONTENT="1829"/><SP WIDTH="48" VPOS="921" HPOS="297"/>
+							<String ID="string_236" HPOS="345" VPOS="937" WIDTH="12" HEIGHT="9" WC="0.60" CONTENT=",,"/><SP WIDTH="27" VPOS="937" HPOS="357"/>
+							<String ID="string_237" HPOS="384" VPOS="921" WIDTH="237" HEIGHT="27" WC="0.96" CONTENT="Oikeudenkäynti."/><SP WIDTH="114" VPOS="921" HPOS="621"/>
+							<String ID="string_238" HPOS="735" VPOS="937" WIDTH="9" HEIGHT="6" WC="0.78" CONTENT="N"/><SP WIDTH="92" VPOS="937" HPOS="744"/>
+							<String ID="string_239" HPOS="836" VPOS="925" WIDTH="11" HEIGHT="7" WC="0.89" CONTENT="»"/><SP WIDTH="42" VPOS="925" HPOS="847"/>
+							<String ID="string_240" HPOS="889" VPOS="909" WIDTH="27" HEIGHT="19" WC="0.72" CONTENT="87"/><SP WIDTH="43" VPOS="909" HPOS="916"/>
+							<String ID="string_241" HPOS="959" VPOS="925" WIDTH="12" HEIGHT="6" WC="0.72" CONTENT="»"/><SP WIDTH="27" VPOS="925" HPOS="971"/>
+							<String ID="string_242" HPOS="998" VPOS="907" WIDTH="194" HEIGHT="34" WC="0.81" CONTENT="Maanviljelys"/><SP WIDTH="187" VPOS="907" HPOS="1192"/>
+							<String ID="string_243" HPOS="1379" VPOS="921" WIDTH="10" HEIGHT="7" WC="0.24" CONTENT="”"/>
+						</TextLine>
+						<TextLine ID="line_27" HPOS="195" VPOS="937" WIDTH="1195" HEIGHT="37">
+							<String ID="string_244" HPOS="195" VPOS="967" WIDTH="13" HEIGHT="7" WC="0.74" CONTENT="»"/><SP WIDTH="48" VPOS="967" HPOS="208"/>
+							<String ID="string_245" HPOS="256" VPOS="952" WIDTH="41" HEIGHT="19" WC="0.69" CONTENT="133"/><SP WIDTH="48" VPOS="952" HPOS="297"/>
+							<String ID="string_246" HPOS="345" VPOS="968" WIDTH="11" HEIGHT="7" WC="0.66" CONTENT=","/><SP WIDTH="28" VPOS="968" HPOS="356"/>
+							<String ID="string_247" HPOS="384" VPOS="951" WIDTH="92" HEIGHT="21" WC="0.90" CONTENT="Kunta."/><SP WIDTH="259" VPOS="951" HPOS="476"/>
+							<String ID="string_248" HPOS="735" VPOS="968" WIDTH="9" HEIGHT="6" WC="0.89" CONTENT="N"/><SP WIDTH="92" VPOS="968" HPOS="744"/>
+							<String ID="string_249" HPOS="836" VPOS="956" WIDTH="11" HEIGHT="6" WC="0.90" CONTENT="»"/><SP WIDTH="42" VPOS="956" HPOS="847"/>
+							<String ID="string_250" HPOS="889" VPOS="938" WIDTH="28" HEIGHT="20" WC="0.85" CONTENT="88"/><SP WIDTH="42" VPOS="938" HPOS="917"/>
+							<String ID="string_251" HPOS="959" VPOS="954" WIDTH="12" HEIGHT="8" WC="0.9" CONTENT=","/><SP WIDTH="27" VPOS="954" HPOS="971"/>
+							<String ID="string_252" HPOS="998" VPOS="937" WIDTH="125" HEIGHT="34" WC="0.96" CONTENT="Hallinto."/><SP WIDTH="87" VPOS="937" HPOS="1123"/>
+							<String ID="string_253" HPOS="1210" VPOS="966" WIDTH="4" HEIGHT="4" WC="0.79" CONTENT="N"/><SP WIDTH="165" VPOS="966" HPOS="1214"/>
+							<String ID="string_254" HPOS="1379" VPOS="952" WIDTH="11" HEIGHT="6" WC="0.88" CONTENT="”"/>
+						</TextLine>
+						<TextLine ID="line_28" HPOS="195" VPOS="963" WIDTH="1194" HEIGHT="48">
+							<String ID="string_255" HPOS="195" VPOS="997" WIDTH="12" HEIGHT="7" WC="0.91" CONTENT="»"/><SP WIDTH="48" VPOS="997" HPOS="207"/>
+							<String ID="string_256" HPOS="255" VPOS="981" WIDTH="43" HEIGHT="20" WC="0.92" CONTENT="134"/><SP WIDTH="47" VPOS="981" HPOS="298"/>
+							<String ID="string_257" HPOS="345" VPOS="998" WIDTH="12" HEIGHT="7" WC="0.77" CONTENT=","/><SP WIDTH="26" VPOS="998" HPOS="357"/>
+							<String ID="string_258" HPOS="383" VPOS="981" WIDTH="209" HEIGHT="21" WC="0.90" CONTENT="Paloviinavero."/><SP WIDTH="143" VPOS="981" HPOS="592"/>
+							<String ID="string_259" HPOS="735" VPOS="998" WIDTH="9" HEIGHT="6" WC="0.67" CONTENT="5"/><SP WIDTH="92" VPOS="998" HPOS="744"/>
+							<String ID="string_260" HPOS="836" VPOS="985" WIDTH="11" HEIGHT="7" WC="0.76" CONTENT="»"/><SP WIDTH="42" VPOS="985" HPOS="847"/>
+							<String ID="string_261" HPOS="889" VPOS="969" WIDTH="28" HEIGHT="19" WC="0.71" CONTENT="89"/><SP WIDTH="43" VPOS="969" HPOS="917"/>
+							<String ID="string_262" HPOS="960" VPOS="984" WIDTH="11" HEIGHT="8" WC="0.71" CONTENT="»"/><SP WIDTH="27" VPOS="984" HPOS="971"/>
+							<String ID="string_263" HPOS="998" VPOS="967" WIDTH="103" HEIGHT="34" WC="0.96" CONTENT="Kirkko"/><SP WIDTH="12" VPOS="967" HPOS="1101"/>
+							<String ID="string_264" HPOS="1113" VPOS="973" WIDTH="26" HEIGHT="27" WC="0.76" CONTENT="Ja"/><SP WIDTH="17" VPOS="973" HPOS="1139"/>
+							<String ID="string_265" HPOS="1156" VPOS="963" WIDTH="109" HEIGHT="48" WC="0.94" CONTENT="papisto."/><SP WIDTH="114" VPOS="963" HPOS="1265"/>
+							<String ID="string_266" HPOS="1379" VPOS="982" WIDTH="10" HEIGHT="6" WC="0.89" CONTENT="”"/>
+						</TextLine>
+						<TextLine ID="line_29" HPOS="196" VPOS="996" WIDTH="1194" HEIGHT="51">
+							<String ID="string_267" HPOS="196" VPOS="1027" WIDTH="12" HEIGHT="7" WC="0.89" CONTENT="»"/><SP WIDTH="48" VPOS="1027" HPOS="208"/>
+							<String ID="string_268" HPOS="256" VPOS="1011" WIDTH="41" HEIGHT="20" WC="0.58" CONTENT="135"/><SP WIDTH="48" VPOS="1011" HPOS="297"/>
+							<String ID="string_269" HPOS="345" VPOS="1011" WIDTH="209" HEIGHT="24" WC="0.58" CONTENT=" Juutalaiset."/><SP WIDTH="181" VPOS="1011" HPOS="554"/>
+							<String ID="string_270" HPOS="735" VPOS="1028" WIDTH="10" HEIGHT="6" WC="0.73" CONTENT="W"/><SP WIDTH="91" VPOS="1028" HPOS="745"/>
+							<String ID="string_271" HPOS="836" VPOS="1015" WIDTH="11" HEIGHT="7" WC="0.54" CONTENT="»"/><SP WIDTH="42" VPOS="1015" HPOS="847"/>
+							<String ID="string_272" HPOS="889" VPOS="999" WIDTH="28" HEIGHT="19" WC="0.51" CONTENT="9"/><SP WIDTH="42" VPOS="999" HPOS="917"/>
+							<String ID="string_273" HPOS="959" VPOS="1014" WIDTH="12" HEIGHT="8" WC="0.76" CONTENT=","/><SP WIDTH="27" VPOS="1014" HPOS="971"/>
+							<String ID="string_274" HPOS="998" VPOS="996" WIDTH="194" HEIGHT="51" WC="0.0" CONTENT="Mopnviljelys"/>
+						</TextLine>
+						<TextLine ID="line_30" HPOS="195" VPOS="1027" WIDTH="1195" HEIGHT="40">
+							<String ID="string_275" HPOS="195" VPOS="1056" WIDTH="12" HEIGHT="8" WC="0.87" CONTENT="»"/><SP WIDTH="49" VPOS="1056" HPOS="207"/>
+							<String ID="string_276" HPOS="256" VPOS="1041" WIDTH="41" HEIGHT="20" WC="0.93" CONTENT="136"/><SP WIDTH="48" VPOS="1041" HPOS="297"/>
+							<String ID="string_277" HPOS="345" VPOS="1058" WIDTH="11" HEIGHT="7" WC="0.69" CONTENT=","/><SP WIDTH="27" VPOS="1058" HPOS="356"/>
+							<String ID="string_278" HPOS="383" VPOS="1040" WIDTH="191" HEIGHT="22" WC="0.92" CONTENT="Kruununtilat"/><SP WIDTH="14" VPOS="1040" HPOS="574"/>
+							<String ID="string_279" HPOS="588" VPOS="1040" WIDTH="27" HEIGHT="27" WC="0.93" CONTENT="ja"/><SP WIDTH="16" VPOS="1040" HPOS="615"/>
+							<String ID="string_280" HPOS="631" VPOS="1034" WIDTH="71" HEIGHT="28" WC="0.90" CONTENT="-vir-|"/><SP WIDTH="133" VPOS="1034" HPOS="702"/>
+							<String ID="string_281" HPOS="835" VPOS="1045" WIDTH="12" HEIGHT="7" WC="0.79" CONTENT="»"/><SP WIDTH="42" VPOS="1045" HPOS="847"/>
+							<String ID="string_282" HPOS="889" VPOS="1028" WIDTH="26" HEIGHT="20" WC="0.78" CONTENT="91"/><SP WIDTH="45" VPOS="1028" HPOS="915"/>
+							<String ID="string_283" HPOS="960" VPOS="1044" WIDTH="11" HEIGHT="7" WC="0.54" CONTENT="»"/><SP WIDTH="48" VPOS="1044" HPOS="971"/>
+							<String ID="string_284" HPOS="1019" VPOS="1027" WIDTH="68" HEIGHT="34" WC="0.75" CONTENT="Velka"/><SP WIDTH="21" VPOS="1027" HPOS="1087"/>
+							<String ID="string_285" HPOS="1108" VPOS="1058" WIDTH="9" HEIGHT="4" WC="0.38" CONTENT="|"/><SP WIDTH="263" VPOS="1058" HPOS="1117"/>
+							<String ID="string_286" HPOS="1380" VPOS="1041" WIDTH="10" HEIGHT="7" WC="0.87" CONTENT="”"/>
+						</TextLine>
+						<TextLine ID="line_31" HPOS="582" VPOS="1056" WIDTH="808" HEIGHT="36">
+							<String ID="string_287" HPOS="582" VPOS="1070" WIDTH="109" HEIGHT="22" WC="0.68" CONTENT="katalot."/><SP WIDTH="144" VPOS="1070" HPOS="691"/>
+							<String ID="string_288" HPOS="835" VPOS="1074" WIDTH="12" HEIGHT="8" WC="0.82" CONTENT="»"/><SP WIDTH="42" VPOS="1074" HPOS="847"/>
+							<String ID="string_289" HPOS="889" VPOS="1058" WIDTH="28" HEIGHT="20" WC="0.89" CONTENT="92"/><SP WIDTH="50" VPOS="1058" HPOS="917"/>
+							<String ID="string_290" HPOS="967" VPOS="1074" WIDTH="4" HEIGHT="8" WC="0.5" CONTENT=",,"/><SP WIDTH="28" VPOS="1074" HPOS="971"/>
+							<String ID="string_291" HPOS="999" VPOS="1056" WIDTH="200" HEIGHT="27" WC="0.90" CONTENT="Siveettömyys."/><SP WIDTH="180" VPOS="1056" HPOS="1199"/>
+							<String ID="string_292" HPOS="1379" VPOS="1072" WIDTH="11" HEIGHT="6" WC="0.52" CONTENT="äs"/>
+						</TextLine>
+						<TextLine ID="line_32" HPOS="701" VPOS="1086" WIDTH="689" HEIGHT="26">
+							<String ID="string_293" HPOS="701" VPOS="1088" WIDTH="43" HEIGHT="23" WC="0.29" CONTENT="|”"/><SP WIDTH="92" VPOS="1088" HPOS="744"/>
+							<String ID="string_294" HPOS="836" VPOS="1104" WIDTH="11" HEIGHT="8" WC="0.90" CONTENT="»"/><SP WIDTH="25" VPOS="1104" HPOS="847"/>
+							<String ID="string_295" HPOS="872" VPOS="1088" WIDTH="67" HEIGHT="20" WC="0.91" CONTENT="93-95"/><SP WIDTH="21" VPOS="1088" HPOS="939"/>
+							<String ID="string_296" HPOS="960" VPOS="1104" WIDTH="11" HEIGHT="8" WC="0.91" CONTENT=",,"/><SP WIDTH="27" VPOS="1104" HPOS="971"/>
+							<String ID="string_297" HPOS="998" VPOS="1086" WIDTH="89" HEIGHT="22" WC="0.96" CONTENT="Velka."/><SP WIDTH="292" VPOS="1086" HPOS="1087"/>
+							<String ID="string_298" HPOS="1379" VPOS="1101" WIDTH="11" HEIGHT="7" WC="0.82" CONTENT="”"/>
+						</TextLine>
+						<TextLine ID="line_33" HPOS="195" VPOS="1112" WIDTH="1195" HEIGHT="30">
+							<String ID="string_299" HPOS="195" VPOS="1128" WIDTH="12" HEIGHT="8" WC="0.92" CONTENT="»"/><SP WIDTH="49" VPOS="1128" HPOS="207"/>
+							<String ID="string_300" HPOS="256" VPOS="1113" WIDTH="40" HEIGHT="19" WC="0.87" CONTENT="137"/><SP WIDTH="49" VPOS="1113" HPOS="296"/>
+							<String ID="string_301" HPOS="345" VPOS="1129" WIDTH="12" HEIGHT="7" WC="0.41" CONTENT=",,"/><SP WIDTH="27" VPOS="1129" HPOS="357"/>
+							<String ID="string_302" HPOS="384" VPOS="1112" WIDTH="92" HEIGHT="22" WC="0.96" CONTENT="Kunta."/><SP WIDTH="259" VPOS="1112" HPOS="476"/>
+							<String ID="string_303" HPOS="735" VPOS="1130" WIDTH="9" HEIGHT="5" WC="0.50" CONTENT="”"/><SP WIDTH="92" VPOS="1130" HPOS="744"/>
+							<String ID="string_304" HPOS="836" VPOS="1134" WIDTH="11" HEIGHT="8" WC="0.89" CONTENT="»"/><SP WIDTH="26" VPOS="1134" HPOS="847"/>
+							<String ID="string_305" HPOS="873" VPOS="1118" WIDTH="67" HEIGHT="20" WC="0.92" CONTENT="96-97"/><SP WIDTH="21" VPOS="1118" HPOS="940"/>
+							<String ID="string_306" HPOS="961" VPOS="1134" WIDTH="12" HEIGHT="7" WC="0.88" CONTENT=",,"/><SP WIDTH="26" VPOS="1134" HPOS="973"/>
+							<String ID="string_307" HPOS="999" VPOS="1116" WIDTH="79" HEIGHT="22" WC="0.95" CONTENT="Posti."/><SP WIDTH="301" VPOS="1116" HPOS="1078"/>
+							<String ID="string_308" HPOS="1379" VPOS="1131" WIDTH="11" HEIGHT="7" WC="0.41" CONTENT="sv"/>
+						</TextLine>
+						<TextLine ID="line_34" HPOS="195" VPOS="1142" WIDTH="1195" HEIGHT="34">
+							<String ID="string_309" HPOS="195" VPOS="1158" WIDTH="12" HEIGHT="7" WC="0.91" CONTENT="»"/><SP WIDTH="41" VPOS="1158" HPOS="207"/>
+							<String ID="string_310" HPOS="248" VPOS="1143" WIDTH="56" HEIGHT="19" WC="0.57" CONTENT="13"/><SP WIDTH="41" VPOS="1143" HPOS="304"/>
+							<String ID="string_311" HPOS="345" VPOS="1159" WIDTH="12" HEIGHT="7" WC="0.35" CONTENT=",,"/><SP WIDTH="27" VPOS="1159" HPOS="357"/>
+							<String ID="string_312" HPOS="384" VPOS="1142" WIDTH="92" HEIGHT="21" WC="0.96" CONTENT="Kunta."/><SP WIDTH="224" VPOS="1142" HPOS="476"/>
+							<String ID="string_313" HPOS="700" VPOS="1169" WIDTH="2" HEIGHT="7" WC="0.84" CONTENT="|"/><SP WIDTH="16" VPOS="1169" HPOS="702"/>
+							<String ID="string_314" HPOS="718" VPOS="1144" WIDTH="46" HEIGHT="18" WC="0.84" CONTENT="1888"/><SP WIDTH="72" VPOS="1144" HPOS="764"/>
+							<String ID="string_315" HPOS="836" VPOS="1164" WIDTH="12" HEIGHT="8" WC="0.82" CONTENT="»"/><SP WIDTH="41" VPOS="1164" HPOS="848"/>
+							<String ID="string_316" HPOS="889" VPOS="1148" WIDTH="28" HEIGHT="20" WC="0.96" CONTENT="98"/><SP WIDTH="42" VPOS="1148" HPOS="917"/>
+							<String ID="string_317" HPOS="959" VPOS="1164" WIDTH="12" HEIGHT="7" WC="0.53" CONTENT=",,"/><SP WIDTH="27" VPOS="1164" HPOS="971"/>
+							<String ID="string_318" HPOS="998" VPOS="1146" WIDTH="156" HEIGHT="22" WC="0.84" CONTENT="Jakolaitos."/><SP WIDTH="225" VPOS="1146" HPOS="1154"/>
+							<String ID="string_319" HPOS="1379" VPOS="1161" WIDTH="11" HEIGHT="6" WC="0.79" CONTENT="»"/>
+						</TextLine>
+						<TextLine ID="line_35" HPOS="195" VPOS="1172" WIDTH="1195" HEIGHT="30">
+							<String ID="string_320" HPOS="195" VPOS="1188" WIDTH="12" HEIGHT="7" WC="0.56" CONTENT="N"/><SP WIDTH="77" VPOS="1188" HPOS="207"/>
+							<String ID="string_321" HPOS="284" VPOS="1172" WIDTH="14" HEIGHT="20" WC="0.87" CONTENT="4"/><SP WIDTH="47" VPOS="1172" HPOS="298"/>
+							<String ID="string_322" HPOS="345" VPOS="1188" WIDTH="12" HEIGHT="8" WC="0.67" CONTENT="»"/><SP WIDTH="15" VPOS="1188" HPOS="357"/>
+							<String ID="string_323" HPOS="372" VPOS="1172" WIDTH="250" HEIGHT="27" WC="0.48" CONTENT="Oikeudenkäynti."/><SP WIDTH="78" VPOS="1172" HPOS="622"/>
+							<String ID="string_324" HPOS="700" VPOS="1177" WIDTH="44" HEIGHT="19" WC="0.26" CONTENT="jon"/><SP WIDTH="91" VPOS="1177" HPOS="744"/>
+							<String ID="string_325" HPOS="835" VPOS="1194" WIDTH="12" HEIGHT="8" WC="0.87" CONTENT="»"/><SP WIDTH="18" VPOS="1194" HPOS="847"/>
+							<String ID="string_326" HPOS="865" VPOS="1178" WIDTH="80" HEIGHT="20" WC="0.79" CONTENT="99-101"/><SP WIDTH="15" VPOS="1178" HPOS="945"/>
+							<String ID="string_327" HPOS="960" VPOS="1194" WIDTH="11" HEIGHT="7" WC="0.65" CONTENT=",,"/><SP WIDTH="28" VPOS="1194" HPOS="971"/>
+							<String ID="string_328" HPOS="999" VPOS="1176" WIDTH="135" HEIGHT="22" WC="0.91" CONTENT="Tienteko."/><SP WIDTH="245" VPOS="1176" HPOS="1134"/>
+							<String ID="string_329" HPOS="1379" VPOS="1191" WIDTH="11" HEIGHT="7" WC="0.54" CONTENT="N"/>
+						</TextLine>
+						<TextLine ID="line_36" HPOS="195" VPOS="1201" WIDTH="1194" HEIGHT="35">
+							<String ID="string_330" HPOS="195" VPOS="1218" WIDTH="12" HEIGHT="7" WC="0.91" CONTENT="»"/><SP WIDTH="40" VPOS="1218" HPOS="207"/>
+							<String ID="string_331" HPOS="247" VPOS="1202" WIDTH="58" HEIGHT="20" WC="0.86" CONTENT="5—8"/><SP WIDTH="40" VPOS="1202" HPOS="305"/>
+							<String ID="string_332" HPOS="345" VPOS="1218" WIDTH="12" HEIGHT="8" WC="0.67" CONTENT=",,"/><SP WIDTH="27" VPOS="1218" HPOS="357"/>
+							<String ID="string_333" HPOS="384" VPOS="1201" WIDTH="128" HEIGHT="35" WC="0.96" CONTENT="Ulosotto."/><SP WIDTH="188" VPOS="1201" HPOS="512"/>
+							<String ID="string_334" HPOS="700" VPOS="1211" WIDTH="2" HEIGHT="7" WC="0.48" CONTENT="1"/><SP WIDTH="32" VPOS="1211" HPOS="702"/>
+							<String ID="string_335" HPOS="734" VPOS="1219" WIDTH="10" HEIGHT="6" WC="0.20" CONTENT="p"/><SP WIDTH="91" VPOS="1219" HPOS="744"/>
+							<String ID="string_336" HPOS="835" VPOS="1224" WIDTH="12" HEIGHT="7" WC="0.82" CONTENT="»"/><SP WIDTH="28" VPOS="1224" HPOS="847"/>
+							<String ID="string_337" HPOS="875" VPOS="1208" WIDTH="42" HEIGHT="20" WC="0.80" CONTENT="102"/><SP WIDTH="43" VPOS="1208" HPOS="917"/>
+							<String ID="string_338" HPOS="960" VPOS="1224" WIDTH="11" HEIGHT="7" WC="0.41" CONTENT=",,"/><SP WIDTH="27" VPOS="1224" HPOS="971"/>
+							<String ID="string_339" HPOS="998" VPOS="1205" WIDTH="225" HEIGHT="27" WC="0.92" CONTENT="Kaskenviljelys."/><SP WIDTH="156" VPOS="1205" HPOS="1223"/>
+							<String ID="string_340" HPOS="1379" VPOS="1221" WIDTH="10" HEIGHT="6" WC="0.54" CONTENT="5"/>
+						</TextLine>
+						<TextLine ID="line_37" HPOS="196" VPOS="1232" WIDTH="1193" HEIGHT="29">
+							<String ID="string_341" HPOS="196" VPOS="1248" WIDTH="11" HEIGHT="7" WC="0.72" CONTENT="»"/><SP WIDTH="78" VPOS="1248" HPOS="207"/>
+							<String ID="string_342" HPOS="285" VPOS="1232" WIDTH="71" HEIGHT="24" WC="0.17" CONTENT="9,"/><SP WIDTH="28" VPOS="1232" HPOS="356"/>
+							<String ID="string_343" HPOS="384" VPOS="1232" WIDTH="135" HEIGHT="21" WC="0.83" CONTENT="Tienteko."/><SP WIDTH="181" VPOS="1232" HPOS="519"/>
+							<String ID="string_344" HPOS="700" VPOS="1242" WIDTH="2" HEIGHT="7" WC="0.64" CONTENT="|"/><SP WIDTH="33" VPOS="1242" HPOS="702"/>
+							<String ID="string_345" HPOS="735" VPOS="1249" WIDTH="9" HEIGHT="6" WC="0.64" CONTENT="om"/><SP WIDTH="92" VPOS="1249" HPOS="744"/>
+							<String ID="string_346" HPOS="836" VPOS="1254" WIDTH="11" HEIGHT="7" WC="0.81" CONTENT="»"/><SP WIDTH="28" VPOS="1254" HPOS="847"/>
+							<String ID="string_347" HPOS="875" VPOS="1238" WIDTH="41" HEIGHT="20" WC="0.92" CONTENT="103"/><SP WIDTH="44" VPOS="1238" HPOS="916"/>
+							<String ID="string_348" HPOS="960" VPOS="1254" WIDTH="11" HEIGHT="7" WC="0.46" CONTENT=","/><SP WIDTH="27" VPOS="1254" HPOS="971"/>
+							<String ID="string_349" HPOS="998" VPOS="1236" WIDTH="174" HEIGHT="21" WC="0.92" CONTENT="Mustalaiset."/><SP WIDTH="207" VPOS="1236" HPOS="1172"/>
+							<String ID="string_350" HPOS="1379" VPOS="1250" WIDTH="10" HEIGHT="7" WC="0.52" CONTENT="”"/>
+						</TextLine>
+						<TextLine ID="line_38" HPOS="195" VPOS="1262" WIDTH="1194" HEIGHT="29">
+							<String ID="string_351" HPOS="195" VPOS="1278" WIDTH="12" HEIGHT="7" WC="0.57" CONTENT="5"/><SP WIDTH="64" VPOS="1278" HPOS="207"/>
+							<String ID="string_352" HPOS="271" VPOS="1263" WIDTH="86" HEIGHT="23" WC="0.36" CONTENT="10,"/><SP WIDTH="26" VPOS="1263" HPOS="357"/>
+							<String ID="string_353" HPOS="383" VPOS="1262" WIDTH="157" HEIGHT="21" WC="0.91" CONTENT="Jakolaitos."/><SP WIDTH="194" VPOS="1262" HPOS="540"/>
+							<String ID="string_354" HPOS="734" VPOS="1279" WIDTH="10" HEIGHT="6" WC="0.9" CONTENT="är"/><SP WIDTH="91" VPOS="1279" HPOS="744"/>
+							<String ID="string_355" HPOS="835" VPOS="1284" WIDTH="11" HEIGHT="7" WC="0.68" CONTENT="»"/><SP WIDTH="29" VPOS="1284" HPOS="846"/>
+							<String ID="string_356" HPOS="875" VPOS="1268" WIDTH="43" HEIGHT="19" WC="0.86" CONTENT="104"/><SP WIDTH="42" VPOS="1268" HPOS="918"/>
+							<String ID="string_357" HPOS="960" VPOS="1284" WIDTH="11" HEIGHT="7" WC="0.81" CONTENT=",,"/><SP WIDTH="27" VPOS="1284" HPOS="971"/>
+							<String ID="string_358" HPOS="998" VPOS="1266" WIDTH="92" HEIGHT="21" WC="0.96" CONTENT="Kunta."/><SP WIDTH="289" VPOS="1266" HPOS="1090"/>
+							<String ID="string_359" HPOS="1379" VPOS="1281" WIDTH="10" HEIGHT="6" WC="0.30" CONTENT="”"/>
+						</TextLine>
+						<TextLine ID="line_39" HPOS="195" VPOS="1289" WIDTH="1195" HEIGHT="37">
+							<String ID="string_360" HPOS="195" VPOS="1307" WIDTH="11" HEIGHT="8" WC="0.88" CONTENT="»"/><SP WIDTH="64" VPOS="1307" HPOS="206"/>
+							<String ID="string_361" HPOS="270" VPOS="1292" WIDTH="26" HEIGHT="20" WC="0.44" CONTENT="11."/><SP WIDTH="49" VPOS="1292" HPOS="296"/>
+							<String ID="string_362" HPOS="345" VPOS="1309" WIDTH="11" HEIGHT="7" WC="0.31" CONTENT="=,"/><SP WIDTH="27" VPOS="1309" HPOS="356"/>
+							<String ID="string_363" HPOS="383" VPOS="1291" WIDTH="121" HEIGHT="35" WC="0.93" CONTENT="Holhous."/><SP WIDTH="22" VPOS="1291" HPOS="504"/>
+							<String ID="string_364" HPOS="526" VPOS="1289" WIDTH="163" HEIGHT="30" WC="0.61" CONTENT="(Säätyesitys)!"/><SP WIDTH="147" VPOS="1289" HPOS="689"/>
+							<String ID="string_365" HPOS="836" VPOS="1314" WIDTH="11" HEIGHT="7" WC="0.85" CONTENT="»"/><SP WIDTH="29" VPOS="1314" HPOS="847"/>
+							<String ID="string_366" HPOS="876" VPOS="1297" WIDTH="41" HEIGHT="20" WC="0.85" CONTENT="105"/><SP WIDTH="43" VPOS="1297" HPOS="917"/>
+							<String ID="string_367" HPOS="960" VPOS="1313" WIDTH="12" HEIGHT="8" WC="0.59" CONTENT=","/><SP WIDTH="27" VPOS="1313" HPOS="972"/>
+							<String ID="string_368" HPOS="999" VPOS="1295" WIDTH="183" HEIGHT="22" WC="0.96" CONTENT="Kotieläinten"/><SP WIDTH="16" VPOS="1295" HPOS="1182"/>
+							<String ID="string_369" HPOS="1198" VPOS="1295" WIDTH="77" HEIGHT="21" WC="0.96" CONTENT="hoito."/><SP WIDTH="104" VPOS="1295" HPOS="1275"/>
+							<String ID="string_370" HPOS="1379" VPOS="1311" WIDTH="11" HEIGHT="6" WC="0.52" CONTENT="si"/>
+						</TextLine>
+						<TextLine ID="line_40" HPOS="195" VPOS="1321" WIDTH="1194" HEIGHT="31">
+							<String ID="string_371" HPOS="195" VPOS="1338" WIDTH="11" HEIGHT="7" WC="0.47" CONTENT="»"/><SP WIDTH="65" VPOS="1338" HPOS="206"/>
+							<String ID="string_372" HPOS="271" VPOS="1322" WIDTH="86" HEIGHT="24" WC="0.55" CONTENT="12,"/><SP WIDTH="26" VPOS="1322" HPOS="357"/>
+							<String ID="string_373" HPOS="383" VPOS="1321" WIDTH="115" HEIGHT="22" WC="0.95" CONTENT="Maatila."/><SP WIDTH="237" VPOS="1321" HPOS="498"/>
+							<String ID="string_374" HPOS="735" VPOS="1339" WIDTH="9" HEIGHT="6" WC="0.86" CONTENT="»"/><SP WIDTH="91" VPOS="1339" HPOS="744"/>
+							<String ID="string_375" HPOS="835" VPOS="1344" WIDTH="11" HEIGHT="7" WC="0.88" CONTENT="»"/><SP WIDTH="29" VPOS="1344" HPOS="846"/>
+							<String ID="string_376" HPOS="875" VPOS="1328" WIDTH="41" HEIGHT="19" WC="0.91" CONTENT="106"/><SP WIDTH="44" VPOS="1328" HPOS="916"/>
+							<String ID="string_377" HPOS="960" VPOS="1343" WIDTH="11" HEIGHT="7" WC="0.80" CONTENT=","/><SP WIDTH="26" VPOS="1343" HPOS="971"/>
+							<String ID="string_378" HPOS="997" VPOS="1326" WIDTH="121" HEIGHT="26" WC="0.85" CONTENT="Paloapu."/><SP WIDTH="261" VPOS="1326" HPOS="1118"/>
+							<String ID="string_379" HPOS="1379" VPOS="1341" WIDTH="10" HEIGHT="6" WC="0.92" CONTENT="”"/>
+						</TextLine>
+						<TextLine ID="line_41" HPOS="195" VPOS="1351" WIDTH="1195" HEIGHT="32">
+							<String ID="string_380" HPOS="195" VPOS="1367" WIDTH="11" HEIGHT="8" WC="0.90" CONTENT="»"/><SP WIDTH="26" VPOS="1367" HPOS="206"/>
+							<String ID="string_381" HPOS="232" VPOS="1352" WIDTH="87" HEIGHT="20" WC="0.88" CONTENT="13—15"/><SP WIDTH="26" VPOS="1352" HPOS="319"/>
+							<String ID="string_382" HPOS="345" VPOS="1368" WIDTH="11" HEIGHT="7" WC="0.80" CONTENT=",,"/><SP WIDTH="28" VPOS="1368" HPOS="356"/>
+							<String ID="string_383" HPOS="384" VPOS="1351" WIDTH="181" HEIGHT="27" WC="0.91" CONTENT="Verollepano."/><SP WIDTH="169" VPOS="1351" HPOS="565"/>
+							<String ID="string_384" HPOS="734" VPOS="1369" WIDTH="10" HEIGHT="6" WC="0.54" CONTENT="”"/><SP WIDTH="91" VPOS="1369" HPOS="744"/>
+							<String ID="string_385" HPOS="835" VPOS="1373" WIDTH="11" HEIGHT="8" WC="0.86" CONTENT="»"/><SP WIDTH="29" VPOS="1373" HPOS="846"/>
+							<String ID="string_386" HPOS="875" VPOS="1357" WIDTH="40" HEIGHT="20" WC="0.86" CONTENT="107"/><SP WIDTH="44" VPOS="1357" HPOS="915"/>
+							<String ID="string_387" HPOS="959" VPOS="1373" WIDTH="12" HEIGHT="7" WC="0.78" CONTENT=",,"/><SP WIDTH="28" VPOS="1373" HPOS="971"/>
+							<String ID="string_388" HPOS="999" VPOS="1354" WIDTH="250" HEIGHT="29" WC="0.92" CONTENT="Työväensuojelus."/><SP WIDTH="131" VPOS="1354" HPOS="1249"/>
+							<String ID="string_389" HPOS="1380" VPOS="1370" WIDTH="10" HEIGHT="6" WC="0.74" CONTENT="»"/>
+						</TextLine>
+						<TextLine ID="line_42" HPOS="195" VPOS="1381" WIDTH="1195" HEIGHT="34">
+							<String ID="string_390" HPOS="195" VPOS="1397" WIDTH="11" HEIGHT="7" WC="0.91" CONTENT="»"/><SP WIDTH="65" VPOS="1397" HPOS="206"/>
+							<String ID="string_391" HPOS="271" VPOS="1382" WIDTH="26" HEIGHT="19" WC="0.81" CONTENT="16"/><SP WIDTH="48" VPOS="1382" HPOS="297"/>
+							<String ID="string_392" HPOS="345" VPOS="1398" WIDTH="12" HEIGHT="7" WC="0.13" CONTENT=".,"/><SP WIDTH="26" VPOS="1398" HPOS="357"/>
+							<String ID="string_393" HPOS="383" VPOS="1381" WIDTH="119" HEIGHT="34" WC="0.96" CONTENT="Verotus."/><SP WIDTH="233" VPOS="1381" HPOS="502"/>
+							<String ID="string_394" HPOS="735" VPOS="1399" WIDTH="9" HEIGHT="6" WC="0.66" CONTENT="”"/><SP WIDTH="91" VPOS="1399" HPOS="744"/>
+							<String ID="string_395" HPOS="835" VPOS="1404" WIDTH="4" HEIGHT="7" WC="0.89" CONTENT="»"/><SP WIDTH="36" VPOS="1404" HPOS="839"/>
+							<String ID="string_396" HPOS="875" VPOS="1387" WIDTH="42" HEIGHT="20" WC="0.89" CONTENT="108"/><SP WIDTH="43" VPOS="1387" HPOS="917"/>
+							<String ID="string_397" HPOS="960" VPOS="1403" WIDTH="11" HEIGHT="7" WC="0.54" CONTENT=",,"/><SP WIDTH="27" VPOS="1403" HPOS="971"/>
+							<String ID="string_398" HPOS="998" VPOS="1385" WIDTH="156" HEIGHT="22" WC="0.96" CONTENT="Virkamies."/><SP WIDTH="226" VPOS="1385" HPOS="1154"/>
+							<String ID="string_399" HPOS="1380" VPOS="1400" WIDTH="10" HEIGHT="7" WC="0.36" CONTENT="”"/>
+						</TextLine>
+						<TextLine ID="line_43" HPOS="195" VPOS="1411" WIDTH="1194" HEIGHT="30">
+							<String ID="string_400" HPOS="195" VPOS="1427" WIDTH="11" HEIGHT="7" WC="0.78" CONTENT="»"/><SP WIDTH="65" VPOS="1427" HPOS="206"/>
+							<String ID="string_401" HPOS="271" VPOS="1412" WIDTH="85" HEIGHT="23" WC="0.32" CONTENT="17,"/><SP WIDTH="27" VPOS="1412" HPOS="356"/>
+							<String ID="string_402" HPOS="383" VPOS="1411" WIDTH="88" HEIGHT="22" WC="0.96" CONTENT="Taide."/><SP WIDTH="264" VPOS="1411" HPOS="471"/>
+							<String ID="string_403" HPOS="735" VPOS="1428" WIDTH="9" HEIGHT="6" WC="0.78" CONTENT="»"/><SP WIDTH="91" VPOS="1428" HPOS="744"/>
+							<String ID="string_404" HPOS="835" VPOS="1433" WIDTH="11" HEIGHT="8" WC="0.57" CONTENT=",,"/><SP WIDTH="9" VPOS="1433" HPOS="846"/>
+							<String ID="string_405" HPOS="855" VPOS="1417" WIDTH="116" HEIGHT="23" WC="0.91" CONTENT="109-111,,"/><SP WIDTH="27" VPOS="1417" HPOS="971"/>
+							<String ID="string_406" HPOS="998" VPOS="1415" WIDTH="125" HEIGHT="22" WC="0.96" CONTENT="Hallinto."/><SP WIDTH="256" VPOS="1415" HPOS="1123"/>
+							<String ID="string_407" HPOS="1379" VPOS="1430" WIDTH="10" HEIGHT="7" WC="0.45" CONTENT="äi"/>
+						</TextLine>
+						<TextLine ID="line_44" HPOS="195" VPOS="1437" WIDTH="1195" HEIGHT="42">
+							<String ID="string_408" HPOS="195" VPOS="1457" WIDTH="11" HEIGHT="7" WC="0.80" CONTENT="”"/><SP WIDTH="65" VPOS="1457" HPOS="206"/>
+							<String ID="string_409" HPOS="271" VPOS="1441" WIDTH="26" HEIGHT="20" WC="0.12" CONTENT="18"/><SP WIDTH="48" VPOS="1441" HPOS="297"/>
+							<String ID="string_410" HPOS="345" VPOS="1458" WIDTH="12" HEIGHT="7" WC="0.61" CONTENT=","/><SP WIDTH="26" VPOS="1458" HPOS="357"/>
+							<String ID="string_411" HPOS="383" VPOS="1437" WIDTH="93" HEIGHT="42" WC="0.96" CONTENT="Kunta."/><SP WIDTH="258" VPOS="1437" HPOS="476"/>
+							<String ID="string_412" HPOS="734" VPOS="1458" WIDTH="10" HEIGHT="6" WC="0.55" CONTENT="”"/><SP WIDTH="91" VPOS="1458" HPOS="744"/>
+							<String ID="string_413" HPOS="835" VPOS="1463" WIDTH="12" HEIGHT="8" WC="0.79" CONTENT="»"/><SP WIDTH="28" VPOS="1463" HPOS="847"/>
+							<String ID="string_414" HPOS="875" VPOS="1447" WIDTH="41" HEIGHT="19" WC="0.91" CONTENT="112"/><SP WIDTH="44" VPOS="1447" HPOS="916"/>
+							<String ID="string_415" HPOS="960" VPOS="1463" WIDTH="11" HEIGHT="7" WC="0.70" CONTENT=",,"/><SP WIDTH="27" VPOS="1463" HPOS="971"/>
+							<String ID="string_416" HPOS="998" VPOS="1445" WIDTH="149" HEIGHT="26" WC="0.96" CONTENT="Metsästys."/><SP WIDTH="232" VPOS="1445" HPOS="1147"/>
+							<String ID="string_417" HPOS="1379" VPOS="1460" WIDTH="11" HEIGHT="7" WC="0.33" CONTENT="”"/>
+						</TextLine>
+						<TextLine ID="line_45" HPOS="195" VPOS="1470" WIDTH="1195" HEIGHT="34">
+							<String ID="string_418" HPOS="195" VPOS="1487" WIDTH="12" HEIGHT="7" WC="0.89" CONTENT="»"/><SP WIDTH="25" VPOS="1487" HPOS="207"/>
+							<String ID="string_419" HPOS="232" VPOS="1471" WIDTH="87" HEIGHT="20" WC="0.91" CONTENT="19—26"/><SP WIDTH="26" VPOS="1471" HPOS="319"/>
+							<String ID="string_420" HPOS="345" VPOS="1487" WIDTH="11" HEIGHT="8" WC="0.85" CONTENT=",,"/><SP WIDTH="28" VPOS="1487" HPOS="356"/>
+							<String ID="string_421" HPOS="384" VPOS="1470" WIDTH="166" HEIGHT="34" WC="0.91" CONTENT="Oppikoulut."/><SP WIDTH="83" VPOS="1470" HPOS="550"/>
+							<String ID="string_422" HPOS="633" VPOS="1500" WIDTH="43" HEIGHT="4" WC="0.25" CONTENT="&lt;]"/><SP WIDTH="64" VPOS="1500" HPOS="676"/>
+							<String ID="string_423" HPOS="740" VPOS="1489" WIDTH="4" HEIGHT="5" WC="0.83" CONTENT="»"/><SP WIDTH="91" VPOS="1489" HPOS="744"/>
+							<String ID="string_424" HPOS="835" VPOS="1493" WIDTH="11" HEIGHT="7" WC="0.90" CONTENT="»"/><SP WIDTH="29" VPOS="1493" HPOS="846"/>
+							<String ID="string_425" HPOS="875" VPOS="1477" WIDTH="41" HEIGHT="20" WC="0.79" CONTENT="113"/><SP WIDTH="44" VPOS="1477" HPOS="916"/>
+							<String ID="string_426" HPOS="960" VPOS="1493" WIDTH="11" HEIGHT="6" WC="0.11" CONTENT=",,"/><SP WIDTH="27" VPOS="1493" HPOS="971"/>
+							<String ID="string_427" HPOS="998" VPOS="1475" WIDTH="100" HEIGHT="21" WC="0.93" CONTENT="Kirkon"/><SP WIDTH="19" VPOS="1475" HPOS="1098"/>
+							<String ID="string_428" HPOS="1117" VPOS="1474" WIDTH="213" HEIGHT="27" WC="0.87" CONTENT="palveluskunta.|"/><SP WIDTH="50" VPOS="1474" HPOS="1330"/>
+							<String ID="string_429" HPOS="1380" VPOS="1490" WIDTH="10" HEIGHT="6" WC="0.75" CONTENT="."/>
+						</TextLine>
+						<TextLine ID="line_46" HPOS="194" VPOS="1500" WIDTH="1195" HEIGHT="31">
+							<String ID="string_430" HPOS="194" VPOS="1517" WIDTH="12" HEIGHT="6" WC="0.25" CONTENT="v"/><SP WIDTH="63" VPOS="1517" HPOS="206"/>
+							<String ID="string_431" HPOS="269" VPOS="1501" WIDTH="27" HEIGHT="20" WC="0.86" CONTENT="27"/><SP WIDTH="48" VPOS="1501" HPOS="296"/>
+							<String ID="string_432" HPOS="344" VPOS="1517" WIDTH="12" HEIGHT="7" WC="0.21" CONTENT="—,"/><SP WIDTH="28" VPOS="1517" HPOS="356"/>
+							<String ID="string_433" HPOS="384" VPOS="1501" WIDTH="162" HEIGHT="21" WC="0.92" CONTENT="Teknilliset"/><SP WIDTH="33" VPOS="1501" HPOS="546"/>
+							<String ID="string_434" HPOS="579" VPOS="1500" WIDTH="122" HEIGHT="27" WC="0.13" CONTENT="oppilai-i"/><SP WIDTH="133" VPOS="1500" HPOS="701"/>
+							<String ID="string_435" HPOS="834" VPOS="1523" WIDTH="12" HEIGHT="8" WC="0.88" CONTENT="»"/><SP WIDTH="29" VPOS="1523" HPOS="846"/>
+							<String ID="string_436" HPOS="875" VPOS="1507" WIDTH="42" HEIGHT="19" WC="0.91" CONTENT="114"/><SP WIDTH="43" VPOS="1507" HPOS="917"/>
+							<String ID="string_437" HPOS="960" VPOS="1522" WIDTH="11" HEIGHT="7" WC="0.57" CONTENT=".,"/><SP WIDTH="28" VPOS="1522" HPOS="971"/>
+							<String ID="string_438" HPOS="999" VPOS="1503" WIDTH="237" HEIGHT="28" WC="0.96" CONTENT="Oikeudenkäynti."/><SP WIDTH="144" VPOS="1503" HPOS="1236"/>
+							<String ID="string_439" HPOS="1380" VPOS="1520" WIDTH="9" HEIGHT="6" WC="0.48" CONTENT="5,"/>
+						</TextLine>
+						<TextLine ID="line_47" HPOS="596" VPOS="1527" WIDTH="794" HEIGHT="39">
+							<String ID="string_440" HPOS="596" VPOS="1527" WIDTH="94" HEIGHT="39" WC="0.96" CONTENT="tokset."/><SP WIDTH="145" VPOS="1527" HPOS="690"/>
+							<String ID="string_441" HPOS="835" VPOS="1553" WIDTH="11" HEIGHT="7" WC="0.81" CONTENT="»"/><SP WIDTH="29" VPOS="1553" HPOS="846"/>
+							<String ID="string_442" HPOS="875" VPOS="1536" WIDTH="41" HEIGHT="20" WC="0.86" CONTENT="115"/><SP WIDTH="43" VPOS="1536" HPOS="916"/>
+							<String ID="string_443" HPOS="959" VPOS="1552" WIDTH="12" HEIGHT="7" WC="0.71" CONTENT=",,"/><SP WIDTH="27" VPOS="1552" HPOS="971"/>
+							<String ID="string_444" HPOS="998" VPOS="1535" WIDTH="99" HEIGHT="20" WC="0.95" CONTENT="Kirkko"/><SP WIDTH="17" VPOS="1535" HPOS="1097"/>
+							<String ID="string_445" HPOS="1114" VPOS="1534" WIDTH="26" HEIGHT="27" WC="0.95" CONTENT="ja"/><SP WIDTH="16" VPOS="1534" HPOS="1140"/>
+							<String ID="string_446" HPOS="1156" VPOS="1533" WIDTH="109" HEIGHT="27" WC="0.96" CONTENT="papisto."/><SP WIDTH="115" VPOS="1533" HPOS="1265"/>
+							<String ID="string_447" HPOS="1380" VPOS="1549" WIDTH="10" HEIGHT="7" WC="0.62" CONTENT="-"/>
+						</TextLine>
+						<TextLine ID="line_48" HPOS="194" VPOS="1563" WIDTH="1196" HEIGHT="30">
+							<String ID="string_448" HPOS="194" VPOS="1582" WIDTH="11" HEIGHT="7" WC="0.86" CONTENT="»"/><SP WIDTH="26" VPOS="1582" HPOS="205"/>
+							<String ID="string_449" HPOS="231" VPOS="1566" WIDTH="86" HEIGHT="20" WC="0.90" CONTENT="28—31"/><SP WIDTH="28" VPOS="1566" HPOS="317"/>
+							<String ID="string_450" HPOS="345" VPOS="1583" WIDTH="11" HEIGHT="7" WC="0.92" CONTENT=","/><SP WIDTH="27" VPOS="1583" HPOS="356"/>
+							<String ID="string_451" HPOS="383" VPOS="1566" WIDTH="195" HEIGHT="27" WC="0.96" CONTENT="Maanviljelys."/><SP WIDTH="156" VPOS="1566" HPOS="578"/>
+							<String ID="string_452" HPOS="734" VPOS="1583" WIDTH="10" HEIGHT="6" WC="0.83" CONTENT="JA"/><SP WIDTH="92" VPOS="1583" HPOS="744"/>
+							<String ID="string_453" HPOS="836" VPOS="1583" WIDTH="10" HEIGHT="6" WC="0.85" CONTENT="»"/><SP WIDTH="29" VPOS="1583" HPOS="846"/>
+							<String ID="string_454" HPOS="875" VPOS="1567" WIDTH="41" HEIGHT="19" WC="0.87" CONTENT="116"/><SP WIDTH="43" VPOS="1567" HPOS="916"/>
+							<String ID="string_455" HPOS="959" VPOS="1582" WIDTH="4" HEIGHT="7" WC="0.73" CONTENT=","/><SP WIDTH="34" VPOS="1582" HPOS="963"/>
+							<String ID="string_456" HPOS="997" VPOS="1564" WIDTH="185" HEIGHT="21" WC="0.96" CONTENT="Kotieläinten"/><SP WIDTH="15" VPOS="1564" HPOS="1182"/>
+							<String ID="string_457" HPOS="1197" VPOS="1563" WIDTH="77" HEIGHT="22" WC="0.95" CONTENT="hoito."/><SP WIDTH="106" VPOS="1563" HPOS="1274"/>
+							<String ID="string_458" HPOS="1380" VPOS="1580" WIDTH="10" HEIGHT="6" WC="0.61" CONTENT="jä"/>
+						</TextLine>
+						<TextLine ID="line_49" HPOS="195" VPOS="1593" WIDTH="1194" HEIGHT="27">
+							<String ID="string_459" HPOS="195" VPOS="1611" WIDTH="11" HEIGHT="8" WC="0.92" CONTENT="”"/><SP WIDTH="63" VPOS="1611" HPOS="206"/>
+							<String ID="string_460" HPOS="269" VPOS="1597" WIDTH="28" HEIGHT="19" WC="0.94" CONTENT="32"/><SP WIDTH="47" VPOS="1597" HPOS="297"/>
+							<String ID="string_461" HPOS="344" VPOS="1612" WIDTH="12" HEIGHT="8" WC="0.31" CONTENT="oo,"/><SP WIDTH="28" VPOS="1612" HPOS="356"/>
+							<String ID="string_462" HPOS="384" VPOS="1595" WIDTH="131" HEIGHT="22" WC="0.91" CONTENT="Sotaväki."/><SP WIDTH="219" VPOS="1595" HPOS="515"/>
+							<String ID="string_463" HPOS="734" VPOS="1613" WIDTH="10" HEIGHT="6" WC="0.86" CONTENT="N"/><SP WIDTH="91" VPOS="1613" HPOS="744"/>
+							<String ID="string_464" HPOS="835" VPOS="1613" WIDTH="11" HEIGHT="6" WC="0.91" CONTENT="»"/><SP WIDTH="29" VPOS="1613" HPOS="846"/>
+							<String ID="string_465" HPOS="875" VPOS="1596" WIDTH="41" HEIGHT="19" WC="0.92" CONTENT="117"/><SP WIDTH="44" VPOS="1596" HPOS="916"/>
+							<String ID="string_466" HPOS="960" VPOS="1611" WIDTH="11" HEIGHT="8" WC="0.66" CONTENT=",,"/><SP WIDTH="27" VPOS="1611" HPOS="971"/>
+							<String ID="string_467" HPOS="998" VPOS="1593" WIDTH="227" HEIGHT="22" WC="0.92" CONTENT="Kansanvalistus."/><SP WIDTH="154" VPOS="1593" HPOS="1225"/>
+							<String ID="string_468" HPOS="1379" VPOS="1610" WIDTH="10" HEIGHT="6" WC="0.34" CONTENT="”"/>
+						</TextLine>
+						<TextLine ID="line_50" HPOS="194" VPOS="1623" WIDTH="1196" HEIGHT="26">
+							<String ID="string_469" HPOS="194" VPOS="1641" WIDTH="12" HEIGHT="8" WC="0.79" CONTENT="»”"/><SP WIDTH="63" VPOS="1641" HPOS="206"/>
+							<String ID="string_470" HPOS="269" VPOS="1626" WIDTH="27" HEIGHT="19" WC="0.92" CONTENT="33"/><SP WIDTH="48" VPOS="1626" HPOS="296"/>
+							<String ID="string_471" HPOS="344" VPOS="1642" WIDTH="12" HEIGHT="7" WC="0.42" CONTENT="=,"/><SP WIDTH="27" VPOS="1642" HPOS="356"/>
+							<String ID="string_472" HPOS="383" VPOS="1625" WIDTH="90" HEIGHT="22" WC="0.95" CONTENT="Metsä."/><SP WIDTH="261" VPOS="1625" HPOS="473"/>
+							<String ID="string_473" HPOS="734" VPOS="1643" WIDTH="9" HEIGHT="6" WC="0.62" CONTENT="»"/><SP WIDTH="91" VPOS="1643" HPOS="743"/>
+							<String ID="string_474" HPOS="834" VPOS="1643" WIDTH="12" HEIGHT="6" WC="0.86" CONTENT="»"/><SP WIDTH="29" VPOS="1643" HPOS="846"/>
+							<String ID="string_475" HPOS="875" VPOS="1625" WIDTH="41" HEIGHT="20" WC="0.93" CONTENT="118"/><SP WIDTH="43" VPOS="1625" HPOS="916"/>
+							<String ID="string_476" HPOS="959" VPOS="1641" WIDTH="12" HEIGHT="7" WC="0.35" CONTENT=",,"/><SP WIDTH="26" VPOS="1641" HPOS="971"/>
+							<String ID="string_477" HPOS="997" VPOS="1623" WIDTH="190" HEIGHT="22" WC="0.92" CONTENT="Vaivaishoito."/>
+						</TextLine>
+						<TextLine ID="line_51" HPOS="194" VPOS="1653" WIDTH="1195" HEIGHT="27">
+							<String ID="string_478" HPOS="194" VPOS="1671" WIDTH="11" HEIGHT="8" WC="0.91" CONTENT="»"/><SP WIDTH="26" VPOS="1671" HPOS="205"/>
+							<String ID="string_479" HPOS="231" VPOS="1655" WIDTH="88" HEIGHT="20" WC="0.92" CONTENT="34—36"/><SP WIDTH="25" VPOS="1655" HPOS="319"/>
+							<String ID="string_480" HPOS="344" VPOS="1672" WIDTH="11" HEIGHT="7" WC="0.85" CONTENT=","/><SP WIDTH="29" VPOS="1672" HPOS="355"/>
+							<String ID="string_481" HPOS="384" VPOS="1655" WIDTH="226" HEIGHT="21" WC="0.91" CONTENT="Kansanvalistus."/><SP WIDTH="124" VPOS="1655" HPOS="610"/>
+							<String ID="string_482" HPOS="734" VPOS="1673" WIDTH="10" HEIGHT="6" WC="0.89" CONTENT="»"/><SP WIDTH="90" VPOS="1673" HPOS="744"/>
+							<String ID="string_483" HPOS="834" VPOS="1673" WIDTH="11" HEIGHT="6" WC="0.80" CONTENT="»"/><SP WIDTH="29" VPOS="1673" HPOS="845"/>
+							<String ID="string_484" HPOS="874" VPOS="1655" WIDTH="41" HEIGHT="20" WC="0.85" CONTENT="119"/><SP WIDTH="44" VPOS="1655" HPOS="915"/>
+							<String ID="string_485" HPOS="959" VPOS="1671" WIDTH="12" HEIGHT="7" WC="0.45" CONTENT=",,"/><SP WIDTH="26" VPOS="1671" HPOS="971"/>
+							<String ID="string_486" HPOS="997" VPOS="1653" WIDTH="150" HEIGHT="27" WC="0.96" CONTENT="Metsästys."/><SP WIDTH="232" VPOS="1653" HPOS="1147"/>
+							<String ID="string_487" HPOS="1379" VPOS="1669" WIDTH="10" HEIGHT="7" WC="0.0" CONTENT="a"/>
+						</TextLine>
+						<TextLine ID="line_52" HPOS="194" VPOS="1683" WIDTH="1214" HEIGHT="30">
+							<String ID="string_488" HPOS="194" VPOS="1701" WIDTH="11" HEIGHT="7" WC="0.40" CONTENT="PA"/><SP WIDTH="64" VPOS="1701" HPOS="205"/>
+							<String ID="string_489" HPOS="269" VPOS="1685" WIDTH="26" HEIGHT="20" WC="0.91" CONTENT="37"/><SP WIDTH="50" VPOS="1685" HPOS="295"/>
+							<String ID="string_490" HPOS="345" VPOS="1701" WIDTH="12" HEIGHT="8" WC="0.37" CONTENT="»"/><SP WIDTH="27" VPOS="1701" HPOS="357"/>
+							<String ID="string_491" HPOS="384" VPOS="1685" WIDTH="137" HEIGHT="26" WC="0.96" CONTENT="Yliopisto."/><SP WIDTH="178" VPOS="1685" HPOS="521"/>
+							<String ID="string_492" HPOS="699" VPOS="1687" WIDTH="1" HEIGHT="26" WC="0.41" CONTENT="i"/><SP WIDTH="34" VPOS="1687" HPOS="700"/>
+							<String ID="string_493" HPOS="734" VPOS="1703" WIDTH="9" HEIGHT="6" WC="0.67" CONTENT="a"/><SP WIDTH="91" VPOS="1703" HPOS="743"/>
+							<String ID="string_494" HPOS="834" VPOS="1702" WIDTH="12" HEIGHT="7" WC="0.76" CONTENT="ja"/><SP WIDTH="58" VPOS="1702" HPOS="846"/>
+							<String ID="string_495" HPOS="904" VPOS="1685" WIDTH="10" HEIGHT="20" WC="0.89" CONTENT="1"/><SP WIDTH="44" VPOS="1685" HPOS="914"/>
+							<String ID="string_496" HPOS="958" VPOS="1701" WIDTH="11" HEIGHT="7" WC="0.79" CONTENT=","/><SP WIDTH="27" VPOS="1701" HPOS="969"/>
+							<String ID="string_497" HPOS="996" VPOS="1683" WIDTH="165" HEIGHT="21" WC="0.87" CONTENT="Palkolliset."/><SP WIDTH="201" VPOS="1683" HPOS="1161"/>
+							<String ID="string_498" HPOS="1362" VPOS="1684" WIDTH="46" HEIGHT="19" WC="0.96" CONTENT="1891"/>
+						</TextLine>
+						<TextLine ID="line_53" HPOS="194" VPOS="1713" WIDTH="1195" HEIGHT="28">
+							<String ID="string_499" HPOS="194" VPOS="1730" WIDTH="11" HEIGHT="8" WC="0.79" CONTENT="”"/><SP WIDTH="64" VPOS="1730" HPOS="205"/>
+							<String ID="string_500" HPOS="269" VPOS="1715" WIDTH="28" HEIGHT="20" WC="0.93" CONTENT="38"/><SP WIDTH="47" VPOS="1715" HPOS="297"/>
+							<String ID="string_501" HPOS="344" VPOS="1731" WIDTH="11" HEIGHT="8" WC="0.42" CONTENT=","/><SP WIDTH="28" VPOS="1731" HPOS="355"/>
+							<String ID="string_502" HPOS="383" VPOS="1715" WIDTH="235" HEIGHT="26" WC="0.96" CONTENT="Terveydenhoito."/><SP WIDTH="115" VPOS="1715" HPOS="618"/>
+							<String ID="string_503" HPOS="733" VPOS="1732" WIDTH="9" HEIGHT="6" WC="0.28" CONTENT="sä"/><SP WIDTH="92" VPOS="1732" HPOS="742"/>
+							<String ID="string_504" HPOS="834" VPOS="1731" WIDTH="12" HEIGHT="7" WC="0.66" CONTENT="»"/><SP WIDTH="27" VPOS="1731" HPOS="846"/>
+							<String ID="string_505" HPOS="873" VPOS="1715" WIDTH="58" HEIGHT="19" WC="0.87" CONTENT="2—6"/><SP WIDTH="28" VPOS="1715" HPOS="931"/>
+							<String ID="string_506" HPOS="959" VPOS="1731" WIDTH="11" HEIGHT="7" WC="0.86" CONTENT=","/><SP WIDTH="27" VPOS="1731" HPOS="970"/>
+							<String ID="string_507" HPOS="997" VPOS="1713" WIDTH="214" HEIGHT="22" WC="0.87" CONTENT="Kanavoiminen."/><SP WIDTH="168" VPOS="1713" HPOS="1211"/>
+							<String ID="string_508" HPOS="1379" VPOS="1729" WIDTH="10" HEIGHT="6" WC="0.46" CONTENT="»”"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_8" HPOS="1422" VPOS="115" WIDTH="3" HEIGHT="1585"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
